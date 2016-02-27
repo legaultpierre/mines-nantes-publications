@@ -1,0 +1,3028 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2016-02-09">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="frequency" title="frequency" type="float"></attribute>
+      <attribute id="domain" title="domain" type="string"></attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="category" title="Category" type="string"></attribute>
+      <attribute id="betweenesscentrality" title="Betweenness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="10484" label="particle">
+        <attvalues>
+          <attvalue for="frequency" value="146.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="7081.665105008217"></attvalue>
+        </attvalues>
+        <viz:size value="200.0"></viz:size>
+        <viz:position x="-51.815834" y="361.80713"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="4429" label="collision">
+        <attvalues>
+          <attvalue for="frequency" value="103.0"></attvalue>
+          <attvalue for="domain" value="crisis &amp; conflicts"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="2246.409045587157"></attvalue>
+        </attvalues>
+        <viz:size value="72.97872"></viz:size>
+        <viz:position x="122.88605" y="117.55575"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="12685" label="ion">
+        <attvalues>
+          <attvalue for="frequency" value="65.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="3144.30893777048"></attvalue>
+        </attvalues>
+        <viz:size value="89.914894"></viz:size>
+        <viz:position x="407.27347" y="218.36398"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="15451" label="physics">
+        <attvalues>
+          <attvalue for="frequency" value="61.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="63.515896" y="550.53546"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="12124" label="dimensions">
+        <attvalues>
+          <attvalue for="frequency" value="56.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="-751.4703" y="-359.141"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="3417" label="information">
+        <attvalues>
+          <attvalue for="frequency" value="49.0"></attvalue>
+          <attvalue for="domain" value="communication &amp; medias"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="3908.2113504142226"></attvalue>
+        </attvalues>
+        <viz:size value="94.14893"></viz:size>
+        <viz:position x="-125.00903" y="-670.3232"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="10149" label="model">
+        <attvalues>
+          <attvalue for="frequency" value="49.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="1602.2667066403935"></attvalue>
+        </attvalues>
+        <viz:size value="60.276596"></viz:size>
+        <viz:position x="82.29333" y="-111.49812"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="2997" label="energy">
+        <attvalues>
+          <attvalue for="frequency" value="45.0"></attvalue>
+          <attvalue for="domain" value="business &amp; industry"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="1071.4357013553742"></attvalue>
+        </attvalues>
+        <viz:size value="47.574467"></viz:size>
+        <viz:position x="162.69829" y="-16.005892"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="3354" label="money">
+        <attvalues>
+          <attvalue for="frequency" value="45.0"></attvalue>
+          <attvalue for="domain" value="business &amp; industry"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="556.7687606363592"></attvalue>
+        </attvalues>
+        <viz:size value="56.042553"></viz:size>
+        <viz:position x="254.59499" y="306.12515"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="10672" label="system">
+        <attvalues>
+          <attvalue for="frequency" value="42.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="category" value="Physics"></attvalue>
+          <attvalue for="betweenesscentrality" value="2797.1877858919306"></attvalue>
+        </attvalues>
+        <viz:size value="39.106384"></viz:size>
+        <viz:position x="545.2238" y="-191.62384"></viz:position>
+        <viz:color r="234" g="134" b="21"></viz:color>
+      </node>
+      <node id="15611" label="studies">
+        <attvalues>
+          <attvalue for="frequency" value="40.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="515.4381749354721"></attvalue>
+        </attvalues>
+        <viz:size value="34.87234"></viz:size>
+        <viz:position x="252.38461" y="406.13416"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="15633" label="methods">
+        <attvalues>
+          <attvalue for="frequency" value="40.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="2855.8369764898803"></attvalue>
+        </attvalues>
+        <viz:size value="72.97872"></viz:size>
+        <viz:position x="-356.6134" y="-357.3238"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="12166" label="similarity">
+        <attvalues>
+          <attvalue for="frequency" value="38.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="category" value="Problem Solving"></attvalue>
+          <attvalue for="betweenesscentrality" value="2103.823249142803"></attvalue>
+        </attvalues>
+        <viz:size value="39.106384"></viz:size>
+        <viz:position x="-382.30466" y="22.580807"></viz:position>
+        <viz:color r="95" g="198" b="19"></viz:color>
+      </node>
+      <node id="2982" label="atomic energy">
+        <attvalues>
+          <attvalue for="frequency" value="35.0"></attvalue>
+          <attvalue for="domain" value="business &amp; industry"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="1029.709902747828"></attvalue>
+        </attvalues>
+        <viz:size value="47.574467"></viz:size>
+        <viz:position x="-9.243493" y="84.82308"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="3194" label="production">
+        <attvalues>
+          <attvalue for="frequency" value="35.0"></attvalue>
+          <attvalue for="domain" value="business &amp; industry"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="79.86325518997984"></attvalue>
+        </attvalues>
+        <viz:size value="34.87234"></viz:size>
+        <viz:position x="190.39499" y="229.37279"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="12422" label="heavy">
+        <attvalues>
+          <attvalue for="frequency" value="34.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="404.84813309490556"></attvalue>
+        </attvalues>
+        <viz:size value="56.042553"></viz:size>
+        <viz:position x="259.91708" y="154.50699"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="10525" label="reaction">
+        <attvalues>
+          <attvalue for="frequency" value="33.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="78.53357736287147"></attvalue>
+        </attvalues>
+        <viz:size value="39.106384"></viz:size>
+        <viz:position x="228.56816" y="52.94926"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="10351" label="experiment">
+        <attvalues>
+          <attvalue for="frequency" value="30.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="1459.2584552255823"></attvalue>
+        </attvalues>
+        <viz:size value="43.340427"></viz:size>
+        <viz:position x="-306.71112" y="443.80936"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="4581" label="problems">
+        <attvalues>
+          <attvalue for="frequency" value="29.0"></attvalue>
+          <attvalue for="domain" value="crisis &amp; conflicts"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="788.2743729001804"></attvalue>
+        </attvalues>
+        <viz:size value="22.170214"></viz:size>
+        <viz:position x="-158.14197" y="-393.2615"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="9977" label="new">
+        <attvalues>
+          <attvalue for="frequency" value="28.0"></attvalue>
+          <attvalue for="domain" value="numbers, time &amp; dates"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="1381.9919261253244"></attvalue>
+        </attvalues>
+        <viz:size value="43.340427"></viz:size>
+        <viz:position x="-272.75864" y="-234.01537"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="10033" label="analysis">
+        <attvalues>
+          <attvalue for="frequency" value="28.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="1881.5709023086933"></attvalue>
+        </attvalues>
+        <viz:size value="51.80851"></viz:size>
+        <viz:position x="-67.34983" y="-14.096442"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="15569" label="science">
+        <attvalues>
+          <attvalue for="frequency" value="28.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="759.0729855822696"></attvalue>
+        </attvalues>
+        <viz:size value="43.340427"></viz:size>
+        <viz:position x="-182.90422" y="-810.0507"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="3389" label="communication">
+        <attvalues>
+          <attvalue for="frequency" value="27.0"></attvalue>
+          <attvalue for="domain" value="communication &amp; medias"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="2090.967335013218"></attvalue>
+        </attvalues>
+        <viz:size value="60.276596"></viz:size>
+        <viz:position x="-133.18515" y="-500.31122"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="10639" label="procedure">
+        <attvalues>
+          <attvalue for="frequency" value="26.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="845.0"></attvalue>
+        </attvalues>
+        <viz:size value="17.93617"></viz:size>
+        <viz:position x="-480.37143" y="-451.7885"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="10330" label="distribution">
+        <attvalues>
+          <attvalue for="frequency" value="24.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="14.323412698412689"></attvalue>
+        </attvalues>
+        <viz:size value="17.93617"></viz:size>
+        <viz:position x="199.02998" y="366.1347"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="10669" label="structure">
+        <attvalues>
+          <attvalue for="frequency" value="24.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="1003.1263210716536"></attvalue>
+        </attvalues>
+        <viz:size value="26.404255"></viz:size>
+        <viz:position x="138.78308" y="-404.38974"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="1298" label="document">
+        <attvalues>
+          <attvalue for="frequency" value="23.0"></attvalue>
+          <attvalue for="domain" value="arts &amp; culture"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="781.4289259795338"></attvalue>
+        </attvalues>
+        <viz:size value="26.404255"></viz:size>
+        <viz:position x="-641.0162" y="-464.9619"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="15753" label="engine">
+        <attvalues>
+          <attvalue for="frequency" value="23.0"></attvalue>
+          <attvalue for="domain" value="things &amp; substances"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="category" value="Energy"></attvalue>
+          <attvalue for="betweenesscentrality" value="976.6212506873625"></attvalue>
+        </attvalues>
+        <viz:size value="39.106384"></viz:size>
+        <viz:position x="283.3992" y="-699.42444"></viz:position>
+        <viz:color r="46" g="144" b="114"></viz:color>
+      </node>
+      <node id="14439" label="algorithm">
+        <attvalues>
+          <attvalue for="frequency" value="22.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="category" value="Problem Solving"></attvalue>
+          <attvalue for="betweenesscentrality" value="969.4949125649271"></attvalue>
+        </attvalues>
+        <viz:size value="26.404255"></viz:size>
+        <viz:position x="-497.33063" y="32.520676"></viz:position>
+        <viz:color r="95" g="198" b="19"></viz:color>
+      </node>
+      <node id="15227" label="probability &amp; statistics">
+        <attvalues>
+          <attvalue for="frequency" value="22.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="category" value="Problem Solving"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="-1019.13934" y="423.30356"></viz:position>
+        <viz:color r="95" g="198" b="19"></viz:color>
+      </node>
+      <node id="15970" label="paper">
+        <attvalues>
+          <attvalue for="frequency" value="22.0"></attvalue>
+          <attvalue for="domain" value="things &amp; substances"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="432.99927213309553"></attvalue>
+        </attvalues>
+        <viz:size value="17.93617"></viz:size>
+        <viz:position x="-669.6655" y="-385.42538"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="15454" label="quark">
+        <attvalues>
+          <attvalue for="frequency" value="21.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="71.72598537438687"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="28.158863" y="135.29753"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="15764" label="mechanism">
+        <attvalues>
+          <attvalue for="frequency" value="21.0"></attvalue>
+          <attvalue for="domain" value="things &amp; substances"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.9166666666666665"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="272.43353" y="83.48561"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="9990" label="time">
+        <attvalues>
+          <attvalue for="frequency" value="20.0"></attvalue>
+          <attvalue for="domain" value="numbers, time &amp; dates"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="category" value="Physics"></attvalue>
+          <attvalue for="betweenesscentrality" value="843.0"></attvalue>
+        </attvalues>
+        <viz:size value="13.702127"></viz:size>
+        <viz:position x="710.7756" y="-236.99449"></viz:position>
+        <viz:color r="234" g="134" b="21"></viz:color>
+      </node>
+      <node id="11799" label="property">
+        <attvalues>
+          <attvalue for="frequency" value="20.0"></attvalue>
+          <attvalue for="domain" value="politics &amp; society"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="460.5531854723399"></attvalue>
+        </attvalues>
+        <viz:size value="26.404255"></viz:size>
+        <viz:position x="64.69892" y="-356.07507"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="10722" label="use">
+        <attvalues>
+          <attvalue for="frequency" value="19.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-670.6459" y="-470.80487"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="1246" label="language unit">
+        <attvalues>
+          <attvalue for="frequency" value="18.0"></attvalue>
+          <attvalue for="domain" value="arts &amp; culture"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-67.57282" y="-484.50296"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="10635" label="part">
+        <attvalues>
+          <attvalue for="frequency" value="18.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="1122.929889960163"></attvalue>
+        </attvalues>
+        <viz:size value="26.404255"></viz:size>
+        <viz:position x="669.3785" y="21.872158"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="15233" label="statistics">
+        <attvalues>
+          <attvalue for="frequency" value="18.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-405.53976" y="-975.599"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="15642" label="technique">
+        <attvalues>
+          <attvalue for="frequency" value="18.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="16.140826330532207"></attvalue>
+        </attvalues>
+        <viz:size value="17.93617"></viz:size>
+        <viz:position x="-249.51678" y="-799.1877"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="12120" label="different">
+        <attvalues>
+          <attvalue for="frequency" value="17.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="-277.3673" y="372.72717"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="10044" label="change">
+        <attvalues>
+          <attvalue for="frequency" value="16.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-108.230705" y="-814.88165"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="10667" label="source">
+        <attvalues>
+          <attvalue for="frequency" value="16.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="659.4611648905542"></attvalue>
+        </attvalues>
+        <viz:size value="17.93617"></viz:size>
+        <viz:position x="-143.70796" y="-6.139848"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="11049" label="control">
+        <attvalues>
+          <attvalue for="frequency" value="16.0"></attvalue>
+          <attvalue for="domain" value="politics &amp; society"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-500.5026" y="-457.47928"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="10483" label="parameter">
+        <attvalues>
+          <attvalue for="frequency" value="15.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="425.0"></attvalue>
+        </attvalues>
+        <viz:size value="13.702127"></viz:size>
+        <viz:position x="-522.2189" y="-608.74036"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="14817" label="biomass">
+        <attvalues>
+          <attvalue for="frequency" value="15.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="636.0"></attvalue>
+        </attvalues>
+        <viz:size value="13.702127"></viz:size>
+        <viz:position x="575.43463" y="676.16223"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="15577" label="theory">
+        <attvalues>
+          <attvalue for="frequency" value="15.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="832.4677584151792"></attvalue>
+        </attvalues>
+        <viz:size value="26.404255"></viz:size>
+        <viz:position x="-579.2111" y="-172.16628"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="15803" label="tool">
+        <attvalues>
+          <attvalue for="frequency" value="15.0"></attvalue>
+          <attvalue for="domain" value="things &amp; substances"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="913.3294342523508"></attvalue>
+        </attvalues>
+        <viz:size value="30.638298"></viz:size>
+        <viz:position x="-305.00815" y="344.14413"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="10184" label="solution">
+        <attvalues>
+          <attvalue for="frequency" value="14.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="780.1302783959436"></attvalue>
+        </attvalues>
+        <viz:size value="26.404255"></viz:size>
+        <viz:position x="-502.1427" y="354.97043"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="12492" label="hotness">
+        <attvalues>
+          <attvalue for="frequency" value="14.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="94.90387000751461"></attvalue>
+        </attvalues>
+        <viz:size value="26.404255"></viz:size>
+        <viz:position x="15.962503" y="7.4268107"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="12493" label="temperature">
+        <attvalues>
+          <attvalue for="frequency" value="14.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="category" value="Energy"></attvalue>
+          <attvalue for="betweenesscentrality" value="47.41201889187821"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="104.55987" y="-184.97292"></viz:position>
+        <viz:color r="46" g="144" b="114"></viz:color>
+      </node>
+      <node id="13343" label="chemistry">
+        <attvalues>
+          <attvalue for="frequency" value="14.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="category" value="Physics"></attvalue>
+          <attvalue for="betweenesscentrality" value="106.0"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="888.94806" y="-293.11145"></viz:position>
+        <viz:color r="234" g="134" b="21"></viz:color>
+      </node>
+      <node id="15222" label="topological space">
+        <attvalues>
+          <attvalue for="frequency" value="14.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="category" value="Physics"></attvalue>
+          <attvalue for="betweenesscentrality" value="494.1129305318378"></attvalue>
+        </attvalues>
+        <viz:size value="13.702127"></viz:size>
+        <viz:position x="-109.052315" y="-141.6435"></viz:position>
+        <viz:color r="234" g="134" b="21"></viz:color>
+      </node>
+      <node id="3512" label="media">
+        <attvalues>
+          <attvalue for="frequency" value="13.0"></attvalue>
+          <attvalue for="domain" value="communication &amp; medias"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="87.7295399045399"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="-7.672293" y="-239.63077"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="10684" label="concept">
+        <attvalues>
+          <attvalue for="frequency" value="13.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="129.0371572871573"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="-334.55566" y="-510.03894"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="12481" label="measurement">
+        <attvalues>
+          <attvalue for="frequency" value="13.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="159.67433" y="445.24332"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="12563" label="symmetry">
+        <attvalues>
+          <attvalue for="frequency" value="13.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="179.68773" y="434.3384"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="12572" label="speed">
+        <attvalues>
+          <attvalue for="frequency" value="13.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="21.276908179539777"></attvalue>
+        </attvalues>
+        <viz:size value="13.702127"></viz:size>
+        <viz:position x="251.31825" y="513.0443"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="13557" label="lanthanide series">
+        <attvalues>
+          <attvalue for="frequency" value="13.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="213.0"></attvalue>
+        </attvalues>
+        <viz:size value="13.702127"></viz:size>
+        <viz:position x="638.89813" y="470.48047"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="15134" label="equation">
+        <attvalues>
+          <attvalue for="frequency" value="13.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="497.8620133418728"></attvalue>
+        </attvalues>
+        <viz:size value="17.93617"></viz:size>
+        <viz:position x="-98.58169" y="85.17568"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="127" label="fire">
+        <attvalues>
+          <attvalue for="frequency" value="12.0"></attvalue>
+          <attvalue for="domain" value="agriculture &amp; environment"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="category" value="Energy"></attvalue>
+          <attvalue for="betweenesscentrality" value="207.00258196620086"></attvalue>
+        </attvalues>
+        <viz:size value="26.404255"></viz:size>
+        <viz:position x="350.1407" y="-726.68134"></viz:position>
+        <viz:color r="46" g="144" b="114"></viz:color>
+      </node>
+      <node id="1304" label="library">
+        <attvalues>
+          <attvalue for="frequency" value="12.0"></attvalue>
+          <attvalue for="domain" value="arts &amp; culture"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="213.0"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="-387.90643" y="-952.6126"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="3498" label="web">
+        <attvalues>
+          <attvalue for="frequency" value="12.0"></attvalue>
+          <attvalue for="domain" value="communication &amp; medias"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="category" value="Problem Solving"></attvalue>
+          <attvalue for="betweenesscentrality" value="119.96746031746032"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="-743.26086" y="275.95984"></viz:position>
+        <viz:color r="95" g="198" b="19"></viz:color>
+      </node>
+      <node id="4100" label="france">
+        <attvalues>
+          <attvalue for="frequency" value="12.0"></attvalue>
+          <attvalue for="domain" value="countries &amp; locations"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="370.9343597578896"></attvalue>
+        </attvalues>
+        <viz:size value="22.170214"></viz:size>
+        <viz:position x="-315.32278" y="-841.1424"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="10109" label="arrangement">
+        <attvalues>
+          <attvalue for="frequency" value="12.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="413.8076717817964"></attvalue>
+        </attvalues>
+        <viz:size value="17.93617"></viz:size>
+        <viz:position x="499.48575" y="143.63171"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="10160" label="piece">
+        <attvalues>
+          <attvalue for="frequency" value="12.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="21.561917494270435"></attvalue>
+        </attvalues>
+        <viz:size value="17.93617"></viz:size>
+        <viz:position x="303.38306" y="85.66323"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="12096" label="condition">
+        <attvalues>
+          <attvalue for="frequency" value="12.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="category" value="Physics"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="619.3422" y="-223.19022"></viz:position>
+        <viz:color r="234" g="134" b="21"></viz:color>
+      </node>
+      <node id="12127" label="large">
+        <attvalues>
+          <attvalue for="frequency" value="12.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="810.6542764567058"></attvalue>
+        </attvalues>
+        <viz:size value="34.87234"></viz:size>
+        <viz:position x="-66.26445" y="-109.493164"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="12484" label="momentum">
+        <attvalues>
+          <attvalue for="frequency" value="12.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="27.75867733058137"></attvalue>
+        </attvalues>
+        <viz:size value="17.93617"></viz:size>
+        <viz:position x="100.294716" y="20.123726"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="14709" label="software">
+        <attvalues>
+          <attvalue for="frequency" value="12.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="category" value="Physics"></attvalue>
+          <attvalue for="betweenesscentrality" value="555.250496681046"></attvalue>
+        </attvalues>
+        <viz:size value="17.93617"></viz:size>
+        <viz:position x="-398.6552" y="573.47394"></viz:position>
+        <viz:color r="234" g="134" b="21"></viz:color>
+      </node>
+      <node id="15483" label="dynamics">
+        <attvalues>
+          <attvalue for="frequency" value="12.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="132.53221" y="484.00082"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="1836" label="behavior">
+        <attvalues>
+          <attvalue for="frequency" value="11.0"></attvalue>
+          <attvalue for="domain" value="behaviors &amp; feelings"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="category" value="Energy"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="697.46765" y="-867.4046"></viz:position>
+        <viz:color r="46" g="144" b="114"></viz:color>
+      </node>
+      <node id="3444" label="description">
+        <attvalues>
+          <attvalue for="frequency" value="11.0"></attvalue>
+          <attvalue for="domain" value="communication &amp; medias"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="40.65600711548983"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="771.44" y="87.17619"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="10318" label="detector">
+        <attvalues>
+          <attvalue for="frequency" value="11.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="-252.15822" y="802.7078"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="12134" label="high">
+        <attvalues>
+          <attvalue for="frequency" value="11.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="216.16948" y="-17.777887"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="12421" label="hard">
+        <attvalues>
+          <attvalue for="frequency" value="11.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="13.702127"></viz:size>
+        <viz:position x="139.27307" y="213.59592"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="12479" label="mass">
+        <attvalues>
+          <attvalue for="frequency" value="11.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="241.09486346986347"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="355.98242" y="-168.38208"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="13558" label="lanthanum">
+        <attvalues>
+          <attvalue for="frequency" value="11.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="586.36273" y="704.57513"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="14941" label="electronics">
+        <attvalues>
+          <attvalue for="frequency" value="11.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-685.9428" y="-481.97946"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="15737" label="control system">
+        <attvalues>
+          <attvalue for="frequency" value="11.0"></attvalue>
+          <attvalue for="domain" value="things &amp; substances"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="category" value="Physics"></attvalue>
+          <attvalue for="betweenesscentrality" value="470.8464646464647"></attvalue>
+        </attvalues>
+        <viz:size value="17.93617"></viz:size>
+        <viz:position x="-436.05856" y="605.3853"></viz:position>
+        <viz:color r="234" g="134" b="21"></viz:color>
+      </node>
+      <node id="9942" label="number">
+        <attvalues>
+          <attvalue for="frequency" value="10.0"></attvalue>
+          <attvalue for="domain" value="numbers, time &amp; dates"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="category" value="Problem Solving"></attvalue>
+          <attvalue for="betweenesscentrality" value="584.7680486251458"></attvalue>
+        </attvalues>
+        <viz:size value="17.93617"></viz:size>
+        <viz:position x="-370.04276" y="-40.857975"></viz:position>
+        <viz:color r="95" g="198" b="19"></viz:color>
+      </node>
+      <node id="12223" label="improvement">
+        <attvalues>
+          <attvalue for="frequency" value="10.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="category" value="Problem Solving"></attvalue>
+          <attvalue for="betweenesscentrality" value="479.53172734838336"></attvalue>
+        </attvalues>
+        <viz:size value="22.170214"></viz:size>
+        <viz:position x="-739.6808" y="217.97849"></viz:position>
+        <viz:color r="95" g="198" b="19"></viz:color>
+      </node>
+      <node id="12593" label="type">
+        <attvalues>
+          <attvalue for="frequency" value="10.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="103.27238" y="-30.047684"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="13432" label="actinides">
+        <attvalues>
+          <attvalue for="frequency" value="10.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="967.4603" y="132.58405"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="15529" label="thermodynamics">
+        <attvalues>
+          <attvalue for="frequency" value="10.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="24.825489594388397"></attvalue>
+        </attvalues>
+        <viz:size value="13.702127"></viz:size>
+        <viz:position x="28.066717" y="-38.18395"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="15762" label="measuring instrument">
+        <attvalues>
+          <attvalue for="frequency" value="10.0"></attvalue>
+          <attvalue for="domain" value="things &amp; substances"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-608.24915" y="-163.78857"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="1279" label="linguistics">
+        <attvalues>
+          <attvalue for="frequency" value="9.0"></attvalue>
+          <attvalue for="domain" value="arts &amp; culture"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-505.72485" y="-462.39484"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="8977" label="transport">
+        <attvalues>
+          <attvalue for="frequency" value="9.0"></attvalue>
+          <attvalue for="domain" value="health, life &amp; casualties"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="257.132680065033"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="-162.2499" y="84.14152"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="10188" label="subject">
+        <attvalues>
+          <attvalue for="frequency" value="9.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="213.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="-234.85481" y="-1116.8083"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="10665" label="service">
+        <attvalues>
+          <attvalue for="frequency" value="9.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="474.93746876170127"></attvalue>
+        </attvalues>
+        <viz:size value="26.404255"></viz:size>
+        <viz:position x="-264.7106" y="-752.8213"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="12042" label="state">
+        <attvalues>
+          <attvalue for="frequency" value="9.0"></attvalue>
+          <attvalue for="domain" value="politics &amp; society"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="213.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="-210.16635" y="98.75081"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="12690" label="neutron">
+        <attvalues>
+          <attvalue for="frequency" value="9.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.8333333333333333"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="177.34435" y="418.27103"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="2774" label="barroom">
+        <attvalues>
+          <attvalue for="frequency" value="8.0"></attvalue>
+          <attvalue for="domain" value="business &amp; industry"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="213.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="-808.14374" y="-606.4236"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="3193" label="product">
+        <attvalues>
+          <attvalue for="frequency" value="8.0"></attvalue>
+          <attvalue for="domain" value="business &amp; industry"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="21.94682539682539"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="262.73114" y="546.7028"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="4076" label="european union">
+        <attvalues>
+          <attvalue for="frequency" value="8.0"></attvalue>
+          <attvalue for="domain" value="countries &amp; locations"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="599.85516" y="445.63037"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="4377" label="territory">
+        <attvalues>
+          <attvalue for="frequency" value="8.0"></attvalue>
+          <attvalue for="domain" value="countries &amp; locations"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="241.1287733721624"></attvalue>
+        </attvalues>
+        <viz:size value="13.702127"></viz:size>
+        <viz:position x="-308.96173" y="-667.6306"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="4378" label="field">
+        <attvalues>
+          <attvalue for="frequency" value="8.0"></attvalue>
+          <attvalue for="domain" value="countries &amp; locations"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-270.2641" y="396.3894"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="4414" label="site">
+        <attvalues>
+          <attvalue for="frequency" value="8.0"></attvalue>
+          <attvalue for="domain" value="countries &amp; locations"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="category" value="Energy"></attvalue>
+          <attvalue for="betweenesscentrality" value="151.2055555555555"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="633.8395" y="-790.2092"></viz:position>
+        <viz:color r="46" g="144" b="114"></viz:color>
+      </node>
+      <node id="6397" label="fabric">
+        <attvalues>
+          <attvalue for="frequency" value="8.0"></attvalue>
+          <attvalue for="domain" value="health, life &amp; casualties"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="17.07970085470085"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="233.6047" y="-345.43118"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="10364" label="fusion">
+        <attvalues>
+          <attvalue for="frequency" value="8.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="11.52857142857143"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="824.68146" y="93.07909"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="10661" label="rule">
+        <attvalues>
+          <attvalue for="frequency" value="8.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-244.81834" y="469.87772"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="12487" label="pressure">
+        <attvalues>
+          <attvalue for="frequency" value="8.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="203.5784659784659"></attvalue>
+        </attvalues>
+        <viz:size value="13.702127"></viz:size>
+        <viz:position x="293.47363" y="-259.3818"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="12504" label="range">
+        <attvalues>
+          <attvalue for="frequency" value="8.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="6.1314935064935066"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="-83.32262" y="-569.1068"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="13007" label="carbon">
+        <attvalues>
+          <attvalue for="frequency" value="8.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="476.50474525474533"></attvalue>
+        </attvalues>
+        <viz:size value="26.404255"></viz:size>
+        <viz:position x="193.74596" y="-370.54645"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="13388" label="entropy">
+        <attvalues>
+          <attvalue for="frequency" value="8.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="category" value="Energy"></attvalue>
+          <attvalue for="betweenesscentrality" value="161.41897474506172"></attvalue>
+        </attvalues>
+        <viz:size value="13.702127"></viz:size>
+        <viz:position x="254.1641" y="-584.93134"></viz:position>
+        <viz:color r="46" g="144" b="114"></viz:color>
+      </node>
+      <node id="15759" label="ignition">
+        <attvalues>
+          <attvalue for="frequency" value="8.0"></attvalue>
+          <attvalue for="domain" value="things &amp; substances"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="category" value="Energy"></attvalue>
+          <attvalue for="betweenesscentrality" value="125.47076306046894"></attvalue>
+        </attvalues>
+        <viz:size value="26.404255"></viz:size>
+        <viz:position x="329.3783" y="-781.0003"></viz:position>
+        <viz:color r="46" g="144" b="114"></viz:color>
+      </node>
+      <node id="1285" label="rhetorical device">
+        <attvalues>
+          <attvalue for="frequency" value="7.0"></attvalue>
+          <attvalue for="domain" value="arts &amp; culture"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="category" value="Physics"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="-379.96658" y="539.0761"></viz:position>
+        <viz:color r="234" g="134" b="21"></viz:color>
+      </node>
+      <node id="5795" label="learning">
+        <attvalues>
+          <attvalue for="frequency" value="7.0"></attvalue>
+          <attvalue for="domain" value="education &amp; work"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="category" value="Problem Solving"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-527.3396" y="36.184597"></viz:position>
+        <viz:color r="95" g="198" b="19"></viz:color>
+      </node>
+      <node id="9041" label="way">
+        <attvalues>
+          <attvalue for="frequency" value="7.0"></attvalue>
+          <attvalue for="domain" value="health, life &amp; casualties"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="213.0"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="-120.29637" y="-797.22815"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="9311" label="pseudomonadaceae">
+        <attvalues>
+          <attvalue for="frequency" value="7.0"></attvalue>
+          <attvalue for="domain" value="nature &amp; wildlife"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="9.333333333333336"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="291.1636" y="370.88303"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="10113" label="beam">
+        <attvalues>
+          <attvalue for="frequency" value="7.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="150.60522533022538"></attvalue>
+        </attvalues>
+        <viz:size value="26.404255"></viz:size>
+        <viz:position x="68.6828" y="-17.119358"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="10662" label="search">
+        <attvalues>
+          <attvalue for="frequency" value="7.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-99.976395" y="577.6354"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="10675" label="ability">
+        <attvalues>
+          <attvalue for="frequency" value="7.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-23.360641" y="-627.467"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="10817" label="persons">
+        <attvalues>
+          <attvalue for="frequency" value="7.0"></attvalue>
+          <attvalue for="domain" value="people &amp; persons"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="93.16492351780077"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="-265.1735" y="250.10535"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="11052" label="control">
+        <attvalues>
+          <attvalue for="frequency" value="7.0"></attvalue>
+          <attvalue for="domain" value="politics &amp; society"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="category" value="Physics"></attvalue>
+          <attvalue for="betweenesscentrality" value="238.58544598676175"></attvalue>
+        </attvalues>
+        <viz:size value="17.93617"></viz:size>
+        <viz:position x="-92.32961" y="-996.71045"></viz:position>
+        <viz:color r="234" g="134" b="21"></viz:color>
+      </node>
+      <node id="12053" label="exact">
+        <attvalues>
+          <attvalue for="frequency" value="7.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="category" value="Physics"></attvalue>
+          <attvalue for="betweenesscentrality" value="213.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="601.32446" y="-215.35217"></viz:position>
+        <viz:color r="234" g="134" b="21"></viz:color>
+      </node>
+      <node id="12185" label="feature">
+        <attvalues>
+          <attvalue for="frequency" value="7.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="category" value="Physics"></attvalue>
+          <attvalue for="betweenesscentrality" value="322.0498315693968"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="-203.45145" y="-160.44736"></viz:position>
+        <viz:color r="234" g="134" b="21"></viz:color>
+      </node>
+      <node id="12449" label="possible">
+        <attvalues>
+          <attvalue for="frequency" value="7.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-22.536367" y="581.0043"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="15863" label="liquid">
+        <attvalues>
+          <attvalue for="frequency" value="7.0"></attvalue>
+          <attvalue for="domain" value="things &amp; substances"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="645.6768883415434"></attvalue>
+        </attvalues>
+        <viz:size value="17.93617"></viz:size>
+        <viz:position x="865.4351" y="110.028404"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="91" label="avalanche">
+        <attvalues>
+          <attvalue for="frequency" value="6.0"></attvalue>
+          <attvalue for="domain" value="agriculture &amp; environment"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="-254.30348" y="814.06366"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="283" label="architecture">
+        <attvalues>
+          <attvalue for="frequency" value="6.0"></attvalue>
+          <attvalue for="domain" value="arts &amp; culture"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="category" value="Physics"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="-412.90518" y="594.68994"></viz:position>
+        <viz:color r="234" g="134" b="21"></viz:color>
+      </node>
+      <node id="1886" label="restraint">
+        <attvalues>
+          <attvalue for="frequency" value="6.0"></attvalue>
+          <attvalue for="domain" value="behaviors &amp; feelings"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="category" value="Problem Solving"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-518.35004" y="54.250008"></viz:position>
+        <viz:color r="95" g="198" b="19"></viz:color>
+      </node>
+      <node id="1985" label="resoluteness">
+        <attvalues>
+          <attvalue for="frequency" value="6.0"></attvalue>
+          <attvalue for="domain" value="behaviors &amp; feelings"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="category" value="Energy"></attvalue>
+          <attvalue for="betweenesscentrality" value="23.89354256854256"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="-61.227722" y="-309.252"></viz:position>
+        <viz:color r="46" g="144" b="114"></viz:color>
+      </node>
+      <node id="2901" label="shop">
+        <attvalues>
+          <attvalue for="frequency" value="6.0"></attvalue>
+          <attvalue for="domain" value="business &amp; industry"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="28.022461160122624"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="-175.79124" y="-368.6869"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="6309" label="cell">
+        <attvalues>
+          <attvalue for="frequency" value="6.0"></attvalue>
+          <attvalue for="domain" value="health, life &amp; casualties"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="663.0274" y="485.5527"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="9970" label="delay">
+        <attvalues>
+          <attvalue for="frequency" value="6.0"></attvalue>
+          <attvalue for="domain" value="numbers, time &amp; dates"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="category" value="Energy"></attvalue>
+          <attvalue for="betweenesscentrality" value="517.8721558920743"></attvalue>
+        </attvalues>
+        <viz:size value="17.93617"></viz:size>
+        <viz:position x="395.07916" y="-707.5643"></viz:position>
+        <viz:color r="46" g="144" b="114"></viz:color>
+      </node>
+      <node id="9979" label="present">
+        <attvalues>
+          <attvalue for="frequency" value="6.0"></attvalue>
+          <attvalue for="domain" value="numbers, time &amp; dates"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="282.44443" y="440.86127"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="10114" label="brand">
+        <attvalues>
+          <attvalue for="frequency" value="6.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-239.4278" y="-1136.9475"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="10166" label="resolution">
+        <attvalues>
+          <attvalue for="frequency" value="6.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="category" value="Physics"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="732.6959" y="-244.05339"></viz:position>
+        <viz:color r="234" g="134" b="21"></viz:color>
+      </node>
+      <node id="10258" label="calculation">
+        <attvalues>
+          <attvalue for="frequency" value="6.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-429.47784" y="-320.90002"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="10496" label="plate">
+        <attvalues>
+          <attvalue for="frequency" value="6.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="category" value="Physics"></attvalue>
+          <attvalue for="betweenesscentrality" value="233.4714646464646"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="584.47925" y="-70.713104"></viz:position>
+        <viz:color r="234" g="134" b="21"></viz:color>
+      </node>
+      <node id="12142" label="small">
+        <attvalues>
+          <attvalue for="frequency" value="6.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="321.99966" y="348.4038"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="12204" label="good">
+        <attvalues>
+          <attvalue for="frequency" value="6.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="213.0"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="-27.869194" y="-610.4921"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="12222" label="importance">
+        <attvalues>
+          <attvalue for="frequency" value="6.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="503.01236" y="247.4782"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="12696" label="acids">
+        <attvalues>
+          <attvalue for="frequency" value="6.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="category" value="Energy"></attvalue>
+          <attvalue for="betweenesscentrality" value="280.05396825396815"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="673.9495" y="-862.1502"></viz:position>
+        <viz:color r="46" g="144" b="114"></viz:color>
+      </node>
+      <node id="13029" label="aqueous solution">
+        <attvalues>
+          <attvalue for="frequency" value="6.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="490.11334" y="162.32455"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="13326" label="ion exchange">
+        <attvalues>
+          <attvalue for="frequency" value="6.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="category" value="Energy"></attvalue>
+          <attvalue for="betweenesscentrality" value="41.882539682539694"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="692.08923" y="-851.7495"></viz:position>
+        <viz:color r="46" g="144" b="114"></viz:color>
+      </node>
+      <node id="13415" label="natural gas">
+        <attvalues>
+          <attvalue for="frequency" value="6.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="category" value="Energy"></attvalue>
+          <attvalue for="betweenesscentrality" value="20.47904040404041"></attvalue>
+        </attvalues>
+        <viz:size value="17.93617"></viz:size>
+        <viz:position x="282.56985" y="-764.7469"></viz:position>
+        <viz:color r="46" g="144" b="114"></viz:color>
+      </node>
+      <node id="13455" label="alkali metals">
+        <attvalues>
+          <attvalue for="frequency" value="6.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="317.25278" y="302.12762"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="13554" label="europium">
+        <attvalues>
+          <attvalue for="frequency" value="6.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="category" value="Physics"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="909.18994" y="-287.49557"></viz:position>
+        <viz:color r="234" g="134" b="21"></viz:color>
+      </node>
+      <node id="15254" label="variance">
+        <attvalues>
+          <attvalue for="frequency" value="6.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="category" value="Physics"></attvalue>
+          <attvalue for="betweenesscentrality" value="47.54523809523809"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="-136.28038" y="-963.9304"></viz:position>
+        <viz:color r="234" g="134" b="21"></viz:color>
+      </node>
+      <node id="15836" label="object">
+        <attvalues>
+          <attvalue for="frequency" value="6.0"></attvalue>
+          <attvalue for="domain" value="things &amp; substances"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="category" value="Problem Solving"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-389.93005" y="-47.315075"></viz:position>
+        <viz:color r="95" g="198" b="19"></viz:color>
+      </node>
+      <node id="242" label="water">
+        <attvalues>
+          <attvalue for="frequency" value="5.0"></attvalue>
+          <attvalue for="domain" value="agriculture &amp; environment"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="404.40063" y="318.38336"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="1267" label="language">
+        <attvalues>
+          <attvalue for="frequency" value="5.0"></attvalue>
+          <attvalue for="domain" value="arts &amp; culture"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="5.3240876" y="575.3993"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="2876" label="operator">
+        <attvalues>
+          <attvalue for="frequency" value="5.0"></attvalue>
+          <attvalue for="domain" value="business &amp; industry"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="category" value="Physics"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="-74.627304" y="-971.3664"></viz:position>
+        <viz:color r="234" g="134" b="21"></viz:color>
+      </node>
+      <node id="4914" label="university">
+        <attvalues>
+          <attvalue for="frequency" value="5.0"></attvalue>
+          <attvalue for="domain" value="education &amp; work"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="115.89332824038713"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="-348.21832" y="-906.9653"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="6918" label="chamber">
+        <attvalues>
+          <attvalue for="frequency" value="5.0"></attvalue>
+          <attvalue for="domain" value="health, life &amp; casualties"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="category" value="Physics"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="596.0188" y="-71.24879"></viz:position>
+        <viz:color r="234" g="134" b="21"></viz:color>
+      </node>
+      <node id="8961" label="railway">
+        <attvalues>
+          <attvalue for="frequency" value="5.0"></attvalue>
+          <attvalue for="domain" value="health, life &amp; casualties"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="category" value="Physics"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-448.6401" y="622.0466"></viz:position>
+        <viz:color r="234" g="134" b="21"></viz:color>
+      </node>
+      <node id="9974" label="future">
+        <attvalues>
+          <attvalue for="frequency" value="5.0"></attvalue>
+          <attvalue for="domain" value="numbers, time &amp; dates"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="52.526806" y="556.8236"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="10205" label="accelerator">
+        <attvalues>
+          <attvalue for="frequency" value="5.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="424.0"></attvalue>
+        </attvalues>
+        <viz:size value="13.702127"></viz:size>
+        <viz:position x="-243.7496" y="757.45166"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="10512" label="probe">
+        <attvalues>
+          <attvalue for="frequency" value="5.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="-58.27953" y="116.01629"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="11062" label="effectiveness">
+        <attvalues>
+          <attvalue for="frequency" value="5.0"></attvalue>
+          <attvalue for="domain" value="politics &amp; society"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="category" value="Problem Solving"></attvalue>
+          <attvalue for="betweenesscentrality" value="213.0"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="-779.29803" y="263.56445"></viz:position>
+        <viz:color r="95" g="198" b="19"></viz:color>
+      </node>
+      <node id="12288" label="infiniteness">
+        <attvalues>
+          <attvalue for="frequency" value="5.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="23.66602564102564"></attvalue>
+        </attvalues>
+        <viz:size value="13.702127"></viz:size>
+        <viz:position x="-752.47675" y="-332.71542"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="12332" label="real">
+        <attvalues>
+          <attvalue for="frequency" value="5.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-222.65352" y="502.34082"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="12414" label="digital">
+        <attvalues>
+          <attvalue for="frequency" value="5.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-665.0811" y="-488.12225"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="12424" label="inelasticity">
+        <attvalues>
+          <attvalue for="frequency" value="5.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="213.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="51.052944" y="781.2825"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="12516" label="role">
+        <attvalues>
+          <attvalue for="frequency" value="5.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="285.6609" y="677.7915"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="12524" label="signal">
+        <attvalues>
+          <attvalue for="frequency" value="5.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="158.71503" y="-427.07632"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="12545" label="curvature">
+        <attvalues>
+          <attvalue for="frequency" value="5.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="55.65681818181814"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="28.780428" y="-176.78796"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="12684" label="electron">
+        <attvalues>
+          <attvalue for="frequency" value="5.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="96.14748" y="526.22125"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="12687" label="cation">
+        <attvalues>
+          <attvalue for="frequency" value="5.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="-454.6559" y="412.09116"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="14051" label="organic compounds">
+        <attvalues>
+          <attvalue for="frequency" value="5.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="13.702127"></viz:size>
+        <viz:position x="101.49384" y="-380.68088"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="14445" label="neural networks">
+        <attvalues>
+          <attvalue for="frequency" value="5.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="category" value="Problem Solving"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="-1009.64777" y="416.72516"></viz:position>
+        <viz:color r="95" g="198" b="19"></viz:color>
+      </node>
+      <node id="14466" label="database">
+        <attvalues>
+          <attvalue for="frequency" value="5.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-102.51071" y="-60.368137"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="15269" label="linear regression">
+        <attvalues>
+          <attvalue for="frequency" value="5.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="category" value="Problem Solving"></attvalue>
+          <attvalue for="betweenesscentrality" value="424.0"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="-995.9036" y="408.1408"></viz:position>
+        <viz:color r="95" g="198" b="19"></viz:color>
+      </node>
+      <node id="15428" label="optical phenomenon">
+        <attvalues>
+          <attvalue for="frequency" value="5.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="category" value="Physics"></attvalue>
+          <attvalue for="betweenesscentrality" value="106.0"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="894.0393" y="-272.90158"></viz:position>
+        <viz:color r="234" g="134" b="21"></viz:color>
+      </node>
+      <node id="15493" label="kinematics">
+        <attvalues>
+          <attvalue for="frequency" value="5.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="13.702127"></viz:size>
+        <viz:position x="9.008737" y="-61.54086"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="15861" label="fiber">
+        <attvalues>
+          <attvalue for="frequency" value="5.0"></attvalue>
+          <attvalue for="domain" value="things &amp; substances"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="222.30034" y="-382.0964"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="278" label="world">
+        <attvalues>
+          <attvalue for="frequency" value="4.0"></attvalue>
+          <attvalue for="domain" value="agriculture &amp; environment"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="-757.4368" y="-308.787"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="9966" label="beginning">
+        <attvalues>
+          <attvalue for="frequency" value="4.0"></attvalue>
+          <attvalue for="domain" value="numbers, time &amp; dates"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-434.83264" y="-380.19788"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="9980" label="temporal arrangement">
+        <attvalues>
+          <attvalue for="frequency" value="4.0"></attvalue>
+          <attvalue for="domain" value="numbers, time &amp; dates"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="-469.15283" y="397.08185"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="10018" label="timing">
+        <attvalues>
+          <attvalue for="frequency" value="4.0"></attvalue>
+          <attvalue for="domain" value="numbers, time &amp; dates"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="213.0"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="987.828" y="137.13637"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="10100" label="access">
+        <attvalues>
+          <attvalue for="frequency" value="4.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="220.79665449639862"></attvalue>
+        </attvalues>
+        <viz:size value="13.702127"></viz:size>
+        <viz:position x="-246.11952" y="-712.7281"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="10137" label="implementation">
+        <attvalues>
+          <attvalue for="frequency" value="4.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="699.53906" y="23.387026"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="10164" label="repair">
+        <attvalues>
+          <attvalue for="frequency" value="4.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="category" value="Problem Solving"></attvalue>
+          <attvalue for="betweenesscentrality" value="213.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="-565.128" y="58.78765"></viz:position>
+        <viz:color r="95" g="198" b="19"></viz:color>
+      </node>
+      <node id="10181" label="shock">
+        <attvalues>
+          <attvalue for="frequency" value="4.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-535.6005" y="-617.9339"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="10421" label="la">
+        <attvalues>
+          <attvalue for="frequency" value="4.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="616.5218" y="458.2225"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="10578" label="sphere">
+        <attvalues>
+          <attvalue for="frequency" value="4.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="95.63330974580974"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="-59.67306" y="-233.29425"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="10637" label="point">
+        <attvalues>
+          <attvalue for="frequency" value="4.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="category" value="Energy"></attvalue>
+          <attvalue for="betweenesscentrality" value="3.6977633477633467"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="344.81772" y="-658.7834"></viz:position>
+        <viz:color r="46" g="144" b="114"></viz:color>
+      </node>
+      <node id="10676" label="intelligence">
+        <attvalues>
+          <attvalue for="frequency" value="4.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-324.49234" y="-672.3655"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="10683" label="cognition">
+        <attvalues>
+          <attvalue for="frequency" value="4.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="262.07551778287075"></attvalue>
+        </attvalues>
+        <viz:size value="13.702127"></viz:size>
+        <viz:position x="-695.52057" y="-291.32666"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="10994" label="federal">
+        <attvalues>
+          <attvalue for="frequency" value="4.0"></attvalue>
+          <attvalue for="domain" value="politics &amp; society"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="category" value="Energy"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="307.21484" y="-747.3328"></viz:position>
+        <viz:color r="46" g="144" b="114"></viz:color>
+      </node>
+      <node id="11341" label="management">
+        <attvalues>
+          <attvalue for="frequency" value="4.0"></attvalue>
+          <attvalue for="domain" value="politics &amp; society"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="category" value="Problem Solving"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-802.38464" y="273.81708"></viz:position>
+        <viz:color r="95" g="198" b="19"></viz:color>
+      </node>
+      <node id="12066" label="boundary">
+        <attvalues>
+          <attvalue for="frequency" value="4.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="category" value="Physics"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-448.99765" y="626.12225"></viz:position>
+        <viz:color r="234" g="134" b="21"></viz:color>
+      </node>
+      <node id="12080" label="classification">
+        <attvalues>
+          <attvalue for="frequency" value="4.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-138.63" y="-376.7251"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="12243" label="motion">
+        <attvalues>
+          <attvalue for="frequency" value="4.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="23.70490620490622"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="-249.05359" y="251.58327"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="12251" label="closed">
+        <attvalues>
+          <attvalue for="frequency" value="4.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="category" value="Physics"></attvalue>
+          <attvalue for="betweenesscentrality" value="363.6390613509235"></attvalue>
+        </attvalues>
+        <viz:size value="13.702127"></viz:size>
+        <viz:position x="-49.62958" y="-949.7632"></viz:position>
+        <viz:color r="234" g="134" b="21"></viz:color>
+      </node>
+      <node id="12539" label="timbre">
+        <attvalues>
+          <attvalue for="frequency" value="4.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="230.73794714057863"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="272.11093" y="639.7807"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="12546" label="deepness">
+        <attvalues>
+          <attvalue for="frequency" value="4.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="51.397522" y="793.0929"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="13065" label="chemical compound">
+        <attvalues>
+          <attvalue for="frequency" value="4.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-550.266" y="-628.95685"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="14448" label="computational mathematics">
+        <attvalues>
+          <attvalue for="frequency" value="4.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="category" value="Problem Solving"></attvalue>
+          <attvalue for="betweenesscentrality" value="362.7991518713722"></attvalue>
+        </attvalues>
+        <viz:size value="13.702127"></viz:size>
+        <viz:position x="-704.3862" y="131.56383"></viz:position>
+        <viz:color r="95" g="198" b="19"></viz:color>
+      </node>
+      <node id="15528" label="supersymmetry">
+        <attvalues>
+          <attvalue for="frequency" value="4.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="-637.2127" y="-156.31187"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="15647" label="technology">
+        <attvalues>
+          <attvalue for="frequency" value="4.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="-160.68301" y="-566.93835"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="15713" label="filter">
+        <attvalues>
+          <attvalue for="frequency" value="4.0"></attvalue>
+          <attvalue for="domain" value="things &amp; substances"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="17.07970085470085"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="285.45364" y="-304.2762"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="63" label="air">
+        <attvalues>
+          <attvalue for="frequency" value="3.0"></attvalue>
+          <attvalue for="domain" value="agriculture &amp; environment"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="1010.0969" y="141.90051"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="229" label="pollutant">
+        <attvalues>
+          <attvalue for="frequency" value="3.0"></attvalue>
+          <attvalue for="domain" value="agriculture &amp; environment"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="373.58032" y="-173.261"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="2905" label="workshop">
+        <attvalues>
+          <attvalue for="frequency" value="3.0"></attvalue>
+          <attvalue for="domain" value="business &amp; industry"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-57.04233" y="582.8523"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="6904" label="appliance">
+        <attvalues>
+          <attvalue for="frequency" value="3.0"></attvalue>
+          <attvalue for="domain" value="health, life &amp; casualties"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-225.80756" y="99.72537"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="9036" label="path">
+        <attvalues>
+          <attvalue for="frequency" value="3.0"></attvalue>
+          <attvalue for="domain" value="health, life &amp; casualties"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="category" value="Problem Solving"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-575.7419" y="62.86162"></viz:position>
+        <viz:color r="95" g="198" b="19"></viz:color>
+      </node>
+      <node id="9971" label="duration">
+        <attvalues>
+          <attvalue for="frequency" value="3.0"></attvalue>
+          <attvalue for="domain" value="numbers, time &amp; dates"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="category" value="Energy"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="9.468085"></viz:size>
+        <viz:position x="385.23987" y="-754.0115"></viz:position>
+        <viz:color r="46" g="144" b="114"></viz:color>
+      </node>
+      <node id="10120" label="chart">
+        <attvalues>
+          <attvalue for="frequency" value="3.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="category" value="Physics"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-91.0466" y="-1017.6191"></viz:position>
+        <viz:color r="234" g="134" b="21"></viz:color>
+      </node>
+      <node id="10404" label="interpretation">
+        <attvalues>
+          <attvalue for="frequency" value="3.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-61.69297" y="-758.59705"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="10659" label="resource">
+        <attvalues>
+          <attvalue for="frequency" value="3.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-280.15384" y="-791.70197"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="10678" label="intelligent">
+        <attvalues>
+          <attvalue for="frequency" value="3.0"></attvalue>
+          <attvalue for="domain" value="other concepts"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="category" value="Problem Solving"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="-744.6413" y="179.24805"></viz:position>
+        <viz:color r="95" g="198" b="19"></viz:color>
+      </node>
+      <node id="12068" label="carriage">
+        <attvalues>
+          <attvalue for="frequency" value="3.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="68.215744" y="547.5334"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="12148" label="direct">
+        <attvalues>
+          <attvalue for="frequency" value="3.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-10.002738" y="578.9529"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="12343" label="specific">
+        <attvalues>
+          <attvalue for="frequency" value="3.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="category" value="Physics"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-211.0082" y="-151.71646"></viz:position>
+        <viz:color r="234" g="134" b="21"></viz:color>
+      </node>
+      <node id="12416" label="dry">
+        <attvalues>
+          <attvalue for="frequency" value="3.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="604.0551" y="700.1221"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="12418" label="elasticity">
+        <attvalues>
+          <attvalue for="frequency" value="3.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="13.702127"></viz:size>
+        <viz:position x="-15.045245" y="-79.77592"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="12442" label="wet">
+        <attvalues>
+          <attvalue for="frequency" value="3.0"></attvalue>
+          <attvalue for="domain" value="properties &amp; characteristics"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="586.40076" y="688.15607"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="13555" label="gadolinium">
+        <attvalues>
+          <attvalue for="frequency" value="3.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="401.45712" y="318.2454"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="13572" label="lead">
+        <attvalues>
+          <attvalue for="frequency" value="3.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-826.4711" y="-614.8613"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="14853" label="coulombs">
+        <attvalues>
+          <attvalue for="frequency" value="3.0"></attvalue>
+          <attvalue for="domain" value="sciences &amp; technology"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-220.4879" y="504.91498"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+      <node id="15765" label="mill">
+        <attvalues>
+          <attvalue for="frequency" value="3.0"></attvalue>
+          <attvalue for="domain" value="things &amp; substances"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="category" value="IT"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.2340426"></viz:size>
+        <viz:position x="-648.4772" y="-153.62903"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="15824" label="light">
+        <attvalues>
+          <attvalue for="frequency" value="3.0"></attvalue>
+          <attvalue for="domain" value="things &amp; substances"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="category" value="Nuclear"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-268.26843" y="407.4118"></viz:position>
+        <viz:color r="198" g="134" b="233"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="1" source="91" target="10318" weight="2.0"></edge>
+      <edge id="2" source="127" target="9971" weight="3.0"></edge>
+      <edge id="3" source="127" target="10637" weight="2.0"></edge>
+      <edge id="4" source="127" target="13415" weight="2.0"></edge>
+      <edge id="5" source="127" target="15753" weight="3.0"></edge>
+      <edge id="6" source="127" target="15759" weight="2.0"></edge>
+      <edge id="7" source="283" target="15737" weight="3.0"></edge>
+      <edge id="8" source="1246" target="3389" weight="2.0"></edge>
+      <edge id="9" source="1267" target="10484" weight="2.0"></edge>
+      <edge id="10" source="1285" target="14709" weight="2.0"></edge>
+      <edge id="11" source="1285" target="15803" weight="2.0"></edge>
+      <edge id="12" source="1298" target="3417" weight="2.0"></edge>
+      <edge id="13" source="1298" target="10684" weight="2.0"></edge>
+      <edge id="14" source="1304" target="4100" weight="2.0"></edge>
+      <edge id="15" source="1836" target="12696" weight="2.0"></edge>
+      <edge id="16" source="1985" target="10033" weight="2.0"></edge>
+      <edge id="17" source="1985" target="15753" weight="2.0"></edge>
+      <edge id="18" source="2774" target="13572" weight="2.0"></edge>
+      <edge id="19" source="2876" target="11052" weight="2.0"></edge>
+      <edge id="20" source="2876" target="12251" weight="2.0"></edge>
+      <edge id="21" source="2876" target="15569" weight="2.0"></edge>
+      <edge id="22" source="2901" target="4581" weight="6.0"></edge>
+      <edge id="23" source="2905" target="10484" weight="2.0"></edge>
+      <edge id="24" source="2982" target="4429" weight="9.0"></edge>
+      <edge id="25" source="2982" target="10484" weight="3.0"></edge>
+      <edge id="26" source="2982" target="12493" weight="2.0"></edge>
+      <edge id="27" source="2982" target="15134" weight="3.0"></edge>
+      <edge id="28" source="2997" target="2982" weight="5.0"></edge>
+      <edge id="29" source="2997" target="10484" weight="4.0"></edge>
+      <edge id="30" source="2997" target="10525" weight="4.0"></edge>
+      <edge id="31" source="2997" target="12422" weight="4.0"></edge>
+      <edge id="32" source="2997" target="12685" weight="4.0"></edge>
+      <edge id="33" source="2997" target="15764" weight="2.0"></edge>
+      <edge id="34" source="3193" target="4429" weight="2.0"></edge>
+      <edge id="35" source="3194" target="3354" weight="8.0"></edge>
+      <edge id="36" source="3194" target="4429" weight="9.0"></edge>
+      <edge id="37" source="3194" target="10484" weight="11.0"></edge>
+      <edge id="38" source="3194" target="10525" weight="3.0"></edge>
+      <edge id="39" source="3194" target="12422" weight="3.0"></edge>
+      <edge id="40" source="3194" target="12685" weight="2.0"></edge>
+      <edge id="41" source="3194" target="15454" weight="2.0"></edge>
+      <edge id="42" source="3194" target="15611" weight="3.0"></edge>
+      <edge id="43" source="3354" target="4429" weight="10.0"></edge>
+      <edge id="44" source="3354" target="10484" weight="4.0"></edge>
+      <edge id="45" source="3354" target="12422" weight="4.0"></edge>
+      <edge id="46" source="3354" target="12685" weight="3.0"></edge>
+      <edge id="47" source="3389" target="9970" weight="2.0"></edge>
+      <edge id="48" source="3389" target="9977" weight="2.0"></edge>
+      <edge id="49" source="3389" target="10483" weight="2.0"></edge>
+      <edge id="50" source="3389" target="10639" weight="2.0"></edge>
+      <edge id="51" source="3389" target="10665" weight="2.0"></edge>
+      <edge id="52" source="3389" target="13007" weight="2.0"></edge>
+      <edge id="53" source="3389" target="14051" weight="2.0"></edge>
+      <edge id="54" source="3389" target="15633" weight="5.0"></edge>
+      <edge id="55" source="3389" target="15647" weight="2.0"></edge>
+      <edge id="56" source="3417" target="127" weight="2.0"></edge>
+      <edge id="57" source="3417" target="2997" weight="2.0"></edge>
+      <edge id="58" source="3417" target="3389" weight="5.0"></edge>
+      <edge id="59" source="3417" target="4100" weight="2.0"></edge>
+      <edge id="60" source="3417" target="4377" weight="2.0"></edge>
+      <edge id="61" source="3417" target="4581" weight="4.0"></edge>
+      <edge id="62" source="3417" target="4914" weight="2.0"></edge>
+      <edge id="63" source="3417" target="12504" weight="3.0"></edge>
+      <edge id="64" source="3417" target="13415" weight="2.0"></edge>
+      <edge id="65" source="3417" target="15647" weight="2.0"></edge>
+      <edge id="66" source="3417" target="15753" weight="2.0"></edge>
+      <edge id="67" source="3417" target="15759" weight="2.0"></edge>
+      <edge id="68" source="3444" target="10364" weight="2.0"></edge>
+      <edge id="69" source="3512" target="10578" weight="3.0"></edge>
+      <edge id="71" source="4076" target="12685" weight="2.0"></edge>
+      <edge id="72" source="4100" target="4914" weight="2.0"></edge>
+      <edge id="73" source="4100" target="9977" weight="2.0"></edge>
+      <edge id="74" source="4377" target="10676" weight="4.0"></edge>
+      <edge id="75" source="4377" target="15569" weight="2.0"></edge>
+      <edge id="76" source="4378" target="10484" weight="3.0"></edge>
+      <edge id="77" source="4414" target="10669" weight="2.0"></edge>
+      <edge id="78" source="4429" target="2997" weight="4.0"></edge>
+      <edge id="80" source="4429" target="3417" weight="2.0"></edge>
+      <edge id="81" source="4429" target="10113" weight="2.0"></edge>
+      <edge id="82" source="4429" target="10149" weight="2.0"></edge>
+      <edge id="83" source="4429" target="10484" weight="6.0"></edge>
+      <edge id="84" source="4429" target="15611" weight="3.0"></edge>
+      <edge id="86" source="4581" target="10635" weight="2.0"></edge>
+      <edge id="87" source="4581" target="12080" weight="2.0"></edge>
+      <edge id="88" source="4914" target="1304" weight="2.0"></edge>
+      <edge id="90" source="5795" target="14439" weight="2.0"></edge>
+      <edge id="91" source="6309" target="13557" weight="2.0"></edge>
+      <edge id="92" source="6904" target="12042" weight="2.0"></edge>
+      <edge id="94" source="8961" target="15737" weight="4.0"></edge>
+      <edge id="95" source="8977" target="10484" weight="2.0"></edge>
+      <edge id="96" source="8977" target="15134" weight="2.0"></edge>
+      <edge id="97" source="8977" target="15577" weight="2.0"></edge>
+      <edge id="98" source="9036" target="10164" weight="3.0"></edge>
+      <edge id="99" source="9041" target="3417" weight="4.0"></edge>
+      <edge id="100" source="9041" target="15569" weight="2.0"></edge>
+      <edge id="101" source="9311" target="12685" weight="2.0"></edge>
+      <edge id="102" source="9942" target="3389" weight="2.0"></edge>
+      <edge id="103" source="9942" target="15836" weight="2.0"></edge>
+      <edge id="104" source="9970" target="127" weight="3.0"></edge>
+      <edge id="105" source="9970" target="9971" weight="2.0"></edge>
+      <edge id="106" source="9970" target="10672" weight="2.0"></edge>
+      <edge id="107" source="9974" target="10484" weight="2.0"></edge>
+      <edge id="108" source="9977" target="2901" weight="3.0"></edge>
+      <edge id="109" source="9977" target="2982" weight="2.0"></edge>
+      <edge id="110" source="9977" target="10667" weight="2.0"></edge>
+      <edge id="111" source="9977" target="12166" weight="2.0"></edge>
+      <edge id="112" source="9977" target="12185" weight="2.0"></edge>
+      <edge id="113" source="9977" target="15454" weight="2.0"></edge>
+      <edge id="114" source="9977" target="15633" weight="6.0"></edge>
+      <edge id="115" source="9979" target="15611" weight="2.0"></edge>
+      <edge id="116" source="9990" target="10166" weight="2.0"></edge>
+      <edge id="117" source="9990" target="10672" weight="7.0"></edge>
+      <edge id="118" source="9990" target="13343" weight="2.0"></edge>
+      <edge id="119" source="9990" target="15428" weight="2.0"></edge>
+      <edge id="120" source="10018" target="63" weight="2.0"></edge>
+      <edge id="121" source="10018" target="15863" weight="2.0"></edge>
+      <edge id="122" source="10033" target="1298" weight="2.0"></edge>
+      <edge id="123" source="10033" target="10484" weight="4.0"></edge>
+      <edge id="124" source="10033" target="10525" weight="2.0"></edge>
+      <edge id="125" source="10033" target="12422" weight="2.0"></edge>
+      <edge id="126" source="10033" target="12484" weight="2.0"></edge>
+      <edge id="127" source="10033" target="12685" weight="3.0"></edge>
+      <edge id="128" source="10033" target="15633" weight="2.0"></edge>
+      <edge id="129" source="10033" target="15803" weight="2.0"></edge>
+      <edge id="130" source="10044" target="9041" weight="2.0"></edge>
+      <edge id="132" source="10100" target="3417" weight="2.0"></edge>
+      <edge id="133" source="10100" target="15569" weight="2.0"></edge>
+      <edge id="134" source="10100" target="15642" weight="2.0"></edge>
+      <edge id="135" source="10109" target="10160" weight="2.0"></edge>
+      <edge id="136" source="10109" target="12422" weight="2.0"></edge>
+      <edge id="137" source="10109" target="12685" weight="3.0"></edge>
+      <edge id="138" source="10113" target="2997" weight="4.0"></edge>
+      <edge id="139" source="10113" target="12127" weight="2.0"></edge>
+      <edge id="140" source="10113" target="12418" weight="2.0"></edge>
+      <edge id="141" source="10137" target="10635" weight="2.0"></edge>
+      <edge id="142" source="10149" target="2982" weight="4.0"></edge>
+      <edge id="143" source="10149" target="2997" weight="3.0"></edge>
+      <edge id="144" source="10149" target="3444" weight="2.0"></edge>
+      <edge id="146" source="10149" target="10113" weight="2.0"></edge>
+      <edge id="147" source="10149" target="10484" weight="2.0"></edge>
+      <edge id="148" source="10149" target="10635" weight="2.0"></edge>
+      <edge id="149" source="10149" target="12127" weight="2.0"></edge>
+      <edge id="150" source="10149" target="12166" weight="2.0"></edge>
+      <edge id="151" source="10149" target="12418" weight="2.0"></edge>
+      <edge id="152" source="10149" target="12487" weight="2.0"></edge>
+      <edge id="153" source="10160" target="4429" weight="2.0"></edge>
+      <edge id="154" source="10160" target="12422" weight="3.0"></edge>
+      <edge id="155" source="10160" target="12484" weight="2.0"></edge>
+      <edge id="156" source="10160" target="12685" weight="3.0"></edge>
+      <edge id="157" source="10164" target="14439" weight="3.0"></edge>
+      <edge id="158" source="10181" target="10483" weight="4.0"></edge>
+      <edge id="159" source="10184" target="3498" weight="2.0"></edge>
+      <edge id="160" source="10184" target="9980" weight="2.0"></edge>
+      <edge id="161" source="10184" target="12223" weight="2.0"></edge>
+      <edge id="162" source="10184" target="15803" weight="2.0"></edge>
+      <edge id="163" source="10188" target="3417" weight="2.0"></edge>
+      <edge id="164" source="10188" target="10114" weight="2.0"></edge>
+      <edge id="165" source="10205" target="91" weight="2.0"></edge>
+      <edge id="166" source="10205" target="10318" weight="2.0"></edge>
+      <edge id="167" source="10205" target="10351" weight="2.0"></edge>
+      <edge id="168" source="10330" target="3354" weight="2.0"></edge>
+      <edge id="169" source="10330" target="4429" weight="3.0"></edge>
+      <edge id="170" source="10330" target="10484" weight="6.0"></edge>
+      <edge id="171" source="10330" target="12422" weight="2.0"></edge>
+      <edge id="172" source="10351" target="9980" weight="2.0"></edge>
+      <edge id="173" source="10351" target="10184" weight="2.0"></edge>
+      <edge id="174" source="10351" target="10817" weight="2.0"></edge>
+      <edge id="175" source="10351" target="12422" weight="2.0"></edge>
+      <edge id="176" source="10351" target="12685" weight="2.0"></edge>
+      <edge id="177" source="10351" target="12687" weight="2.0"></edge>
+      <edge id="178" source="10351" target="15611" weight="2.0"></edge>
+      <edge id="179" source="10364" target="10635" weight="2.0"></edge>
+      <edge id="180" source="10364" target="15863" weight="3.0"></edge>
+      <edge id="182" source="10404" target="3417" weight="2.0"></edge>
+      <edge id="183" source="10421" target="4076" weight="3.0"></edge>
+      <edge id="184" source="10421" target="12685" weight="2.0"></edge>
+      <edge id="185" source="10483" target="13065" weight="2.0"></edge>
+      <edge id="190" source="10484" target="10113" weight="3.0"></edge>
+      <edge id="193" source="10484" target="10351" weight="5.0"></edge>
+      <edge id="194" source="10484" target="10512" weight="3.0"></edge>
+      <edge id="195" source="10484" target="10525" weight="6.0"></edge>
+      <edge id="196" source="10484" target="10667" weight="2.0"></edge>
+      <edge id="197" source="10484" target="10672" weight="3.0"></edge>
+      <edge id="198" source="10484" target="12068" weight="2.0"></edge>
+      <edge id="199" source="10484" target="12422" weight="12.0"></edge>
+      <edge id="200" source="10484" target="12492" weight="2.0"></edge>
+      <edge id="201" source="10484" target="12572" weight="2.0"></edge>
+      <edge id="202" source="10484" target="12593" weight="2.0"></edge>
+      <edge id="203" source="10484" target="12685" weight="11.0"></edge>
+      <edge id="204" source="10484" target="12690" weight="3.0"></edge>
+      <edge id="205" source="10484" target="15451" weight="2.0"></edge>
+      <edge id="206" source="10484" target="15483" weight="3.0"></edge>
+      <edge id="207" source="10484" target="15611" weight="5.0"></edge>
+      <edge id="208" source="10496" target="6918" weight="3.0"></edge>
+      <edge id="209" source="10512" target="2982" weight="3.0"></edge>
+      <edge id="211" source="10525" target="3354" weight="2.0"></edge>
+      <edge id="212" source="10525" target="15764" weight="4.0"></edge>
+      <edge id="213" source="10578" target="15222" weight="2.0"></edge>
+      <edge id="214" source="10635" target="10109" weight="2.0"></edge>
+      <edge id="215" source="10635" target="10672" weight="2.0"></edge>
+      <edge id="216" source="10637" target="13388" weight="2.0"></edge>
+      <edge id="217" source="10639" target="1279" weight="2.0"></edge>
+      <edge id="218" source="10639" target="2774" weight="2.0"></edge>
+      <edge id="220" source="10659" target="10665" weight="2.0"></edge>
+      <edge id="221" source="10661" target="10484" weight="3.0"></edge>
+      <edge id="222" source="10662" target="10484" weight="2.0"></edge>
+      <edge id="223" source="10665" target="3417" weight="2.0"></edge>
+      <edge id="224" source="10665" target="4100" weight="2.0"></edge>
+      <edge id="225" source="10665" target="15569" weight="3.0"></edge>
+      <edge id="226" source="10665" target="15642" weight="2.0"></edge>
+      <edge id="228" source="10667" target="12422" weight="2.0"></edge>
+      <edge id="229" source="10667" target="12685" weight="2.0"></edge>
+      <edge id="230" source="10669" target="3389" weight="3.0"></edge>
+      <edge id="231" source="10669" target="10484" weight="2.0"></edge>
+      <edge id="232" source="10669" target="11799" weight="3.0"></edge>
+      <edge id="233" source="10669" target="13007" weight="2.0"></edge>
+      <edge id="234" source="10669" target="14051" weight="2.0"></edge>
+      <edge id="235" source="10672" target="10496" weight="2.0"></edge>
+      <edge id="236" source="10672" target="12053" weight="3.0"></edge>
+      <edge id="237" source="10672" target="12251" weight="2.0"></edge>
+      <edge id="238" source="10672" target="15134" weight="2.0"></edge>
+      <edge id="239" source="10672" target="15222" weight="3.0"></edge>
+      <edge id="240" source="10678" target="12223" weight="2.0"></edge>
+      <edge id="241" source="10678" target="14448" weight="2.0"></edge>
+      <edge id="242" source="10683" target="278" weight="2.0"></edge>
+      <edge id="243" source="10683" target="12288" weight="2.0"></edge>
+      <edge id="244" source="10683" target="15577" weight="2.0"></edge>
+      <edge id="245" source="10683" target="15633" weight="3.0"></edge>
+      <edge id="246" source="10684" target="3417" weight="2.0"></edge>
+      <edge id="247" source="10684" target="10578" weight="2.0"></edge>
+      <edge id="248" source="10722" target="1298" weight="2.0"></edge>
+      <edge id="249" source="10817" target="9977" weight="2.0"></edge>
+      <edge id="250" source="10817" target="12243" weight="2.0"></edge>
+      <edge id="251" source="10994" target="15753" weight="4.0"></edge>
+      <edge id="252" source="10994" target="15759" weight="2.0"></edge>
+      <edge id="253" source="11049" target="10639" weight="3.0"></edge>
+      <edge id="254" source="11052" target="10120" weight="3.0"></edge>
+      <edge id="255" source="11052" target="12251" weight="2.0"></edge>
+      <edge id="256" source="11052" target="15569" weight="2.0"></edge>
+      <edge id="257" source="11062" target="3498" weight="2.0"></edge>
+      <edge id="258" source="11062" target="11341" weight="2.0"></edge>
+      <edge id="259" source="11799" target="3354" weight="2.0"></edge>
+      <edge id="260" source="11799" target="3389" weight="3.0"></edge>
+      <edge id="261" source="11799" target="3512" weight="2.0"></edge>
+      <edge id="262" source="11799" target="13007" weight="2.0"></edge>
+      <edge id="263" source="11799" target="14051" weight="2.0"></edge>
+      <edge id="264" source="11799" target="15633" weight="2.0"></edge>
+      <edge id="266" source="12066" target="15737" weight="3.0"></edge>
+      <edge id="267" source="12096" target="12053" weight="2.0"></edge>
+      <edge id="268" source="12120" target="10484" weight="4.0"></edge>
+      <edge id="269" source="12120" target="15803" weight="2.0"></edge>
+      <edge id="270" source="12127" target="9942" weight="2.0"></edge>
+      <edge id="271" source="12127" target="10205" weight="2.0"></edge>
+      <edge id="272" source="12127" target="10351" weight="2.0"></edge>
+      <edge id="273" source="12127" target="10672" weight="2.0"></edge>
+      <edge id="274" source="12127" target="12418" weight="2.0"></edge>
+      <edge id="275" source="12127" target="14466" weight="2.0"></edge>
+      <edge id="276" source="12134" target="2997" weight="2.0"></edge>
+      <edge id="279" source="12142" target="3354" weight="2.0"></edge>
+      <edge id="280" source="12148" target="10484" weight="3.0"></edge>
+      <edge id="281" source="12166" target="2982" weight="2.0"></edge>
+      <edge id="282" source="12166" target="4429" weight="3.0"></edge>
+      <edge id="283" source="12166" target="9942" weight="2.0"></edge>
+      <edge id="284" source="12166" target="10184" weight="2.0"></edge>
+      <edge id="285" source="12166" target="14439" weight="5.0"></edge>
+      <edge id="286" source="12166" target="15269" weight="2.0"></edge>
+      <edge id="287" source="12166" target="15753" weight="2.0"></edge>
+      <edge id="289" source="12185" target="15222" weight="2.0"></edge>
+      <edge id="290" source="12204" target="3417" weight="2.0"></edge>
+      <edge id="291" source="12204" target="4581" weight="2.0"></edge>
+      <edge id="292" source="12204" target="10675" weight="2.0"></edge>
+      <edge id="293" source="12222" target="12685" weight="2.0"></edge>
+      <edge id="294" source="12223" target="3498" weight="2.0"></edge>
+      <edge id="295" source="12223" target="10100" weight="2.0"></edge>
+      <edge id="296" source="12223" target="11062" weight="3.0"></edge>
+      <edge id="297" source="12223" target="14448" weight="2.0"></edge>
+      <edge id="298" source="12243" target="10484" weight="2.0"></edge>
+      <edge id="300" source="12288" target="278" weight="2.0"></edge>
+      <edge id="301" source="12288" target="12124" weight="2.0"></edge>
+      <edge id="302" source="12332" target="10484" weight="2.0"></edge>
+      <edge id="303" source="12343" target="12185" weight="2.0"></edge>
+      <edge id="304" source="12414" target="1298" weight="2.0"></edge>
+      <edge id="305" source="12416" target="14817" weight="2.0"></edge>
+      <edge id="306" source="12421" target="3354" weight="2.0"></edge>
+      <edge id="307" source="12421" target="10484" weight="10.0"></edge>
+      <edge id="308" source="12421" target="10525" weight="2.0"></edge>
+      <edge id="309" source="12421" target="12422" weight="2.0"></edge>
+      <edge id="310" source="12422" target="4429" weight="4.0"></edge>
+      <edge id="312" source="12422" target="10525" weight="3.0"></edge>
+      <edge id="313" source="12422" target="12685" weight="31.0"></edge>
+      <edge id="314" source="12424" target="2982" weight="2.0"></edge>
+      <edge id="316" source="12442" target="14817" weight="3.0"></edge>
+      <edge id="317" source="12449" target="10484" weight="2.0"></edge>
+      <edge id="318" source="12479" target="229" weight="2.0"></edge>
+      <edge id="319" source="12479" target="4429" weight="2.0"></edge>
+      <edge id="320" source="12481" target="10484" weight="3.0"></edge>
+      <edge id="321" source="12481" target="12690" weight="3.0"></edge>
+      <edge id="322" source="12484" target="2982" weight="2.0"></edge>
+      <edge id="323" source="12484" target="4429" weight="2.0"></edge>
+      <edge id="324" source="12484" target="10484" weight="3.0"></edge>
+      <edge id="325" source="12487" target="6397" weight="2.0"></edge>
+      <edge id="327" source="12487" target="12479" weight="2.0"></edge>
+      <edge id="328" source="12487" target="15713" weight="2.0"></edge>
+      <edge id="329" source="12492" target="2982" weight="2.0"></edge>
+      <edge id="330" source="12492" target="3354" weight="2.0"></edge>
+      <edge id="331" source="12492" target="10033" weight="2.0"></edge>
+      <edge id="332" source="12492" target="10525" weight="2.0"></edge>
+      <edge id="333" source="12493" target="12492" weight="2.0"></edge>
+      <edge id="334" source="12493" target="13388" weight="2.0"></edge>
+      <edge id="335" source="12504" target="10033" weight="2.0"></edge>
+      <edge id="336" source="12524" target="10669" weight="2.0"></edge>
+      <edge id="337" source="12539" target="3193" weight="2.0"></edge>
+      <edge id="338" source="12539" target="10484" weight="2.0"></edge>
+      <edge id="339" source="12539" target="12516" weight="2.0"></edge>
+      <edge id="340" source="12545" target="3512" weight="2.0"></edge>
+      <edge id="341" source="12545" target="10149" weight="2.0"></edge>
+      <edge id="342" source="12546" target="12424" weight="3.0"></edge>
+      <edge id="343" source="12563" target="10330" weight="2.0"></edge>
+      <edge id="344" source="12563" target="10484" weight="2.0"></edge>
+      <edge id="345" source="12572" target="3193" weight="4.0"></edge>
+      <edge id="346" source="12572" target="4429" weight="2.0"></edge>
+      <edge id="347" source="12593" target="10149" weight="2.0"></edge>
+      <edge id="348" source="12684" target="10484" weight="2.0"></edge>
+      <edge id="349" source="12685" target="242" weight="2.0"></edge>
+      <edge id="350" source="12685" target="4429" weight="25.0"></edge>
+      <edge id="353" source="12685" target="10525" weight="8.0"></edge>
+      <edge id="354" source="12685" target="13029" weight="3.0"></edge>
+      <edge id="355" source="12685" target="13557" weight="2.0"></edge>
+      <edge id="356" source="12685" target="14817" weight="4.0"></edge>
+      <edge id="357" source="12687" target="9980" weight="2.0"></edge>
+      <edge id="358" source="12687" target="10184" weight="2.0"></edge>
+      <edge id="359" source="12690" target="3354" weight="3.0"></edge>
+      <edge id="360" source="13007" target="6397" weight="4.0"></edge>
+      <edge id="361" source="13007" target="15861" weight="2.0"></edge>
+      <edge id="362" source="13326" target="1836" weight="2.0"></edge>
+      <edge id="363" source="13326" target="4414" weight="2.0"></edge>
+      <edge id="364" source="13326" target="12696" weight="2.0"></edge>
+      <edge id="365" source="13343" target="13554" weight="2.0"></edge>
+      <edge id="366" source="13415" target="10994" weight="3.0"></edge>
+      <edge id="367" source="13415" target="15753" weight="3.0"></edge>
+      <edge id="368" source="13415" target="15759" weight="4.0"></edge>
+      <edge id="369" source="13432" target="10018" weight="2.0"></edge>
+      <edge id="370" source="13432" target="15863" weight="2.0"></edge>
+      <edge id="371" source="13455" target="12685" weight="3.0"></edge>
+      <edge id="372" source="13555" target="12685" weight="2.0"></edge>
+      <edge id="373" source="13557" target="4076" weight="2.0"></edge>
+      <edge id="374" source="13557" target="10421" weight="4.0"></edge>
+      <edge id="376" source="13558" target="14817" weight="2.0"></edge>
+      <edge id="377" source="14051" target="13007" weight="3.0"></edge>
+      <edge id="379" source="14439" target="1886" weight="2.0"></edge>
+      <edge id="380" source="14439" target="4581" weight="2.0"></edge>
+      <edge id="381" source="14439" target="9942" weight="2.0"></edge>
+      <edge id="382" source="14448" target="14439" weight="2.0"></edge>
+      <edge id="383" source="14448" target="15633" weight="2.0"></edge>
+      <edge id="384" source="14709" target="283" weight="4.0"></edge>
+      <edge id="385" source="14709" target="10351" weight="2.0"></edge>
+      <edge id="386" source="14709" target="15737" weight="2.0"></edge>
+      <edge id="387" source="14853" target="10484" weight="3.0"></edge>
+      <edge id="392" source="14941" target="1298" weight="2.0"></edge>
+      <edge id="393" source="15134" target="10484" weight="3.0"></edge>
+      <edge id="394" source="15134" target="12042" weight="2.0"></edge>
+      <edge id="396" source="15227" target="14445" weight="2.0"></edge>
+      <edge id="397" source="15227" target="15269" weight="2.0"></edge>
+      <edge id="398" source="15233" target="1304" weight="2.0"></edge>
+      <edge id="399" source="15254" target="11052" weight="2.0"></edge>
+      <edge id="400" source="15254" target="15633" weight="2.0"></edge>
+      <edge id="401" source="15269" target="14445" weight="4.0"></edge>
+      <edge id="402" source="15428" target="13343" weight="2.0"></edge>
+      <edge id="403" source="15428" target="13554" weight="2.0"></edge>
+      <edge id="404" source="15454" target="10484" weight="12.0"></edge>
+      <edge id="406" source="15493" target="10113" weight="2.0"></edge>
+      <edge id="407" source="15493" target="10149" weight="3.0"></edge>
+      <edge id="408" source="15493" target="12127" weight="2.0"></edge>
+      <edge id="409" source="15493" target="12418" weight="2.0"></edge>
+      <edge id="410" source="15528" target="15577" weight="2.0"></edge>
+      <edge id="411" source="15528" target="15765" weight="3.0"></edge>
+      <edge id="412" source="15529" target="2997" weight="2.0"></edge>
+      <edge id="413" source="15529" target="10033" weight="2.0"></edge>
+      <edge id="414" source="15529" target="10149" weight="2.0"></edge>
+      <edge id="415" source="15529" target="12492" weight="2.0"></edge>
+      <edge id="416" source="15569" target="3389" weight="2.0"></edge>
+      <edge id="417" source="15569" target="3417" weight="9.0"></edge>
+      <edge id="418" source="15569" target="12251" weight="2.0"></edge>
+      <edge id="419" source="15569" target="15633" weight="2.0"></edge>
+      <edge id="420" source="15569" target="15642" weight="5.0"></edge>
+      <edge id="421" source="15577" target="12166" weight="2.0"></edge>
+      <edge id="422" source="15577" target="15762" weight="2.0"></edge>
+      <edge id="423" source="15611" target="3354" weight="3.0"></edge>
+      <edge id="425" source="15611" target="9311" weight="2.0"></edge>
+      <edge id="428" source="15611" target="10496" weight="2.0"></edge>
+      <edge id="429" source="15611" target="12572" weight="2.0"></edge>
+      <edge id="430" source="15633" target="1985" weight="2.0"></edge>
+      <edge id="431" source="15633" target="4377" weight="2.0"></edge>
+      <edge id="432" source="15633" target="9966" weight="2.0"></edge>
+      <edge id="433" source="15633" target="10258" weight="2.0"></edge>
+      <edge id="434" source="15633" target="10483" weight="2.0"></edge>
+      <edge id="435" source="15633" target="10639" weight="4.0"></edge>
+      <edge id="436" source="15633" target="10667" weight="2.0"></edge>
+      <edge id="437" source="15633" target="13388" weight="2.0"></edge>
+      <edge id="438" source="15633" target="15577" weight="4.0"></edge>
+      <edge id="439" source="15642" target="3417" weight="4.0"></edge>
+      <edge id="440" source="15642" target="4100" weight="2.0"></edge>
+      <edge id="441" source="15713" target="13007" weight="2.0"></edge>
+      <edge id="442" source="15737" target="15222" weight="3.0"></edge>
+      <edge id="445" source="15753" target="10033" weight="2.0"></edge>
+      <edge id="447" source="15753" target="12696" weight="2.0"></edge>
+      <edge id="448" source="15753" target="13388" weight="2.0"></edge>
+      <edge id="449" source="15753" target="15759" weight="3.0"></edge>
+      <edge id="451" source="15759" target="9970" weight="2.0"></edge>
+      <edge id="452" source="15759" target="9971" weight="2.0"></edge>
+      <edge id="455" source="15764" target="3354" weight="3.0"></edge>
+      <edge id="457" source="15765" target="15577" weight="2.0"></edge>
+      <edge id="458" source="15803" target="3194" weight="2.0"></edge>
+      <edge id="459" source="15803" target="10484" weight="2.0"></edge>
+      <edge id="460" source="15803" target="10665" weight="2.0"></edge>
+      <edge id="461" source="15803" target="14709" weight="2.0"></edge>
+      <edge id="462" source="15824" target="10484" weight="3.0"></edge>
+      <edge id="463" source="15863" target="10109" weight="2.0"></edge>
+      <edge id="464" source="15863" target="10635" weight="2.0"></edge>
+      <edge id="465" source="15970" target="1298" weight="3.0"></edge>
+      <edge id="466" source="15970" target="9977" weight="2.0"></edge>
+      <edge id="467" source="15970" target="12124" weight="2.0"></edge>
+      <edge id="468" source="15970" target="12288" weight="2.0"></edge>
+      <edge id="469" source="15970" target="15633" weight="2.0"></edge>
+    </edges>
+  </graph>
+</gexf>

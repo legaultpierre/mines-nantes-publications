@@ -1,0 +1,18 @@
+{
+  "name": "visualisation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "babel-preset-react": "^6.3.13",
+    "babelify": "^7.2.0",
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bundle": "browserify -t [ babelify --presets [ react ] ] script.js -o bundle.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

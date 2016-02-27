@@ -1,0 +1,5 @@
+Nuclear: rgb(198, 134, 233);
+IT: rgb(0, 202, 255);
+Problem Solving: rgb(95,198,19);
+Physics: rgb(234,134,21);
+Energy: rgb(46,144,114);

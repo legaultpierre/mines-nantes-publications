@@ -1,0 +1,1480 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http://www.gexf.net/1.1draft/viz" version="1.1" xmlns="http://www.gexf.net/1.1draft">
+	<meta lastmodifieddate="2014-05-30">
+		<creator>Gephi.org, Pierre Molette (Tropes)</creator>
+		<description>Tropes GEXF results - Some Rights Reserved, see www.tropes.fr, gexf.net</description>
+	</meta>
+	<graph mode="static" defaultedgetype="undirected">
+		<attributes class="node">
+			<attribute id="frequency" title="frequency" type="float"/>
+			<attribute id="domain" title="domain" type="string"/>
+		</attributes>
+		<nodes>
+		<node id="4" label="agriculture &amp; environment">
+		<viz:color r="148" g="100" b="117"/>
+		<viz:position x="-5000" y="80" z="0.0"/>
+		<viz:size value="17"/>
+		<attvalues>
+			<attvalue for="frequency" value="8"/>
+			<attvalue for="domain" value="agriculture &amp; environment"/>
+		</attvalues>
+		</node>
+			<node id="72" label="environmental conditions">
+			<viz:color r="148" g="100" b="117"/>
+			<viz:position x="-5000" y="30" z="0.0"/>
+			<viz:size value="7"/>
+			<attvalues>
+				<attvalue for="frequency" value="3"/>
+				<attvalue for="domain" value="agriculture &amp; environment"/>
+			</attvalues>
+			</node>
+		<node id="280" label="arts &amp; culture">
+		<viz:color r="82" g="56" b="106"/>
+		<viz:position x="-5000" y="90" z="0.0"/>
+		<viz:size value="19"/>
+		<attvalues>
+			<attvalue for="frequency" value="9"/>
+			<attvalue for="domain" value="arts &amp; culture"/>
+		</attvalues>
+		</node>
+			<node id="1229" label="language &amp; texts">
+			<viz:color r="82" g="56" b="106"/>
+			<viz:position x="-5000" y="50" z="0.0"/>
+			<viz:size value="11"/>
+			<attvalues>
+				<attvalue for="frequency" value="5"/>
+				<attvalue for="domain" value="arts &amp; culture"/>
+			</attvalues>
+			</node>
+				<node id="1286" label="texts &amp; documents">
+				<viz:color r="82" g="56" b="106"/>
+				<viz:position x="-5000" y="40" z="0.0"/>
+				<viz:size value="9"/>
+				<attvalues>
+					<attvalue for="frequency" value="4"/>
+					<attvalue for="domain" value="arts &amp; culture"/>
+				</attvalues>
+				</node>
+		<node id="1761" label="behaviors &amp; feelings">
+		<viz:color r="167" g="63" b="64"/>
+		<viz:position x="-5000" y="210" z="0.0"/>
+		<viz:size value="43"/>
+		<attvalues>
+			<attvalue for="frequency" value="21"/>
+			<attvalue for="domain" value="behaviors &amp; feelings"/>
+		</attvalues>
+		</node>
+			<node id="1791" label="behaviors">
+			<viz:color r="167" g="63" b="64"/>
+			<viz:position x="-5000" y="140" z="0.0"/>
+			<viz:size value="29"/>
+			<attvalues>
+				<attvalue for="frequency" value="14"/>
+				<attvalue for="domain" value="behaviors &amp; feelings"/>
+			</attvalues>
+			</node>
+				<node id="1880" label="discipline &amp; indiscipline">
+				<viz:color r="167" g="63" b="64"/>
+				<viz:position x="-5000" y="100" z="0.0"/>
+				<viz:size value="21"/>
+				<attvalues>
+					<attvalue for="frequency" value="10"/>
+					<attvalue for="domain" value="behaviors &amp; feelings"/>
+				</attvalues>
+				</node>
+					<node id="1886" label="restraint">
+					<viz:color r="167" g="63" b="64"/>
+					<viz:position x="-3200" y="100" z="0.0"/>
+					<viz:size value="21"/>
+					<attvalues>
+						<attvalue for="frequency" value="10"/>
+						<attvalue for="domain" value="behaviors &amp; feelings"/>
+					</attvalues>
+					</node>
+			<node id="2129" label="feelings">
+			<viz:color r="167" g="63" b="64"/>
+			<viz:position x="-5000" y="40" z="0.0"/>
+			<viz:size value="9"/>
+			<attvalues>
+				<attvalue for="frequency" value="4"/>
+				<attvalue for="domain" value="behaviors &amp; feelings"/>
+			</attvalues>
+			</node>
+			<node id="2421" label="perceptions">
+			<viz:color r="167" g="63" b="64"/>
+			<viz:position x="-5000" y="30" z="0.0"/>
+			<viz:size value="7"/>
+			<attvalues>
+				<attvalue for="frequency" value="3"/>
+				<attvalue for="domain" value="behaviors &amp; feelings"/>
+			</attvalues>
+			</node>
+				<node id="2436" label="visual property">
+				<viz:color r="167" g="63" b="64"/>
+				<viz:position x="-5000" y="30" z="0.0"/>
+				<viz:size value="7"/>
+				<attvalues>
+					<attvalue for="frequency" value="3"/>
+					<attvalue for="domain" value="behaviors &amp; feelings"/>
+				</attvalues>
+				</node>
+		<node id="2453" label="business &amp; industry">
+		<viz:color r="159" g="84" b="57"/>
+		<viz:position x="-5000" y="970" z="0.0"/>
+		<viz:size value="195"/>
+		<attvalues>
+			<attvalue for="frequency" value="97"/>
+			<attvalue for="domain" value="business &amp; industry"/>
+		</attvalues>
+		</node>
+			<node id="2981" label="energy">
+			<viz:color r="159" g="84" b="57"/>
+			<viz:position x="-5000" y="430" z="0.0"/>
+			<viz:size value="87"/>
+			<attvalues>
+				<attvalue for="frequency" value="43"/>
+				<attvalue for="domain" value="business &amp; industry"/>
+			</attvalues>
+			</node>
+				<node id="2982" label="atomic energy">
+				<viz:color r="159" g="84" b="57"/>
+				<viz:position x="-5000" y="180" z="0.0"/>
+				<viz:size value="37"/>
+				<attvalues>
+					<attvalue for="frequency" value="18"/>
+					<attvalue for="domain" value="business &amp; industry"/>
+				</attvalues>
+				</node>
+				<node id="2997" label="energy">
+				<viz:color r="159" g="84" b="57"/>
+				<viz:position x="2200" y="240" z="0.0"/>
+				<viz:size value="49"/>
+				<attvalues>
+					<attvalue for="frequency" value="24"/>
+					<attvalue for="domain" value="business &amp; industry"/>
+				</attvalues>
+				</node>
+			<node id="3151" label="industries &amp; production">
+			<viz:color r="159" g="84" b="57"/>
+			<viz:position x="-5000" y="80" z="0.0"/>
+			<viz:size value="17"/>
+			<attvalues>
+				<attvalue for="frequency" value="8"/>
+				<attvalue for="domain" value="business &amp; industry"/>
+			</attvalues>
+			</node>
+				<node id="3192" label="product &amp; production">
+				<viz:color r="159" g="84" b="57"/>
+				<viz:position x="-5000" y="80" z="0.0"/>
+				<viz:size value="17"/>
+				<attvalues>
+					<attvalue for="frequency" value="8"/>
+					<attvalue for="domain" value="business &amp; industry"/>
+				</attvalues>
+				</node>
+					<node id="3194" label="production">
+					<viz:color r="159" g="84" b="57"/>
+					<viz:position x="3800" y="80" z="0.0"/>
+					<viz:size value="17"/>
+					<attvalues>
+						<attvalue for="frequency" value="8"/>
+						<attvalue for="domain" value="business &amp; industry"/>
+					</attvalues>
+					</node>
+			<node id="3280" label="money, taxes &amp; expenses">
+			<viz:color r="159" g="84" b="57"/>
+			<viz:position x="-5000" y="450" z="0.0"/>
+			<viz:size value="91"/>
+			<attvalues>
+				<attvalue for="frequency" value="45"/>
+				<attvalue for="domain" value="business &amp; industry"/>
+			</attvalues>
+			</node>
+				<node id="3326" label="money">
+				<viz:color r="159" g="84" b="57"/>
+				<viz:position x="-5000" y="440" z="0.0"/>
+				<viz:size value="89"/>
+				<attvalues>
+					<attvalue for="frequency" value="44"/>
+					<attvalue for="domain" value="business &amp; industry"/>
+				</attvalues>
+				</node>
+					<node id="3354" label="money">
+					<viz:color r="159" g="84" b="57"/>
+					<viz:position x="3600" y="420" z="0.0"/>
+					<viz:size value="85"/>
+					<attvalues>
+						<attvalue for="frequency" value="42"/>
+						<attvalue for="domain" value="business &amp; industry"/>
+					</attvalues>
+					</node>
+		<node id="3378" label="communication &amp; medias">
+		<viz:color r="107" g="128" b="95"/>
+		<viz:position x="-5000" y="140" z="0.0"/>
+		<viz:size value="29"/>
+		<attvalues>
+			<attvalue for="frequency" value="14"/>
+			<attvalue for="domain" value="communication &amp; medias"/>
+		</attvalues>
+		</node>
+			<node id="3381" label="communication &amp; information">
+			<viz:color r="107" g="128" b="95"/>
+			<viz:position x="-5000" y="120" z="0.0"/>
+			<viz:size value="25"/>
+			<attvalues>
+				<attvalue for="frequency" value="12"/>
+				<attvalue for="domain" value="communication &amp; medias"/>
+			</attvalues>
+			</node>
+				<node id="3414" label="information">
+				<viz:color r="107" g="128" b="95"/>
+				<viz:position x="-5000" y="60" z="0.0"/>
+				<viz:size value="13"/>
+				<attvalues>
+					<attvalue for="frequency" value="6"/>
+					<attvalue for="domain" value="communication &amp; medias"/>
+				</attvalues>
+				</node>
+					<node id="3417" label="information">
+					<viz:color r="107" g="128" b="95"/>
+					<viz:position x="-800" y="60" z="0.0"/>
+					<viz:size value="13"/>
+					<attvalues>
+						<attvalue for="frequency" value="6"/>
+						<attvalue for="domain" value="communication &amp; medias"/>
+					</attvalues>
+					</node>
+				<node id="3436" label="other">
+				<viz:color r="107" g="128" b="95"/>
+				<viz:position x="-5000" y="50" z="0.0"/>
+				<viz:size value="11"/>
+				<attvalues>
+					<attvalue for="frequency" value="5"/>
+					<attvalue for="domain" value="communication &amp; medias"/>
+				</attvalues>
+				</node>
+					<node id="3444" label="description">
+					<viz:color r="107" g="128" b="95"/>
+					<viz:position x="3000" y="40" z="0.0"/>
+					<viz:size value="9"/>
+					<attvalues>
+						<attvalue for="frequency" value="4"/>
+						<attvalue for="domain" value="communication &amp; medias"/>
+					</attvalues>
+					</node>
+		<node id="3842" label="countries &amp; locations">
+		<viz:color r="53" g="132" b="28"/>
+		<viz:position x="-5000" y="90" z="0.0"/>
+		<viz:size value="19"/>
+		<attvalues>
+			<attvalue for="frequency" value="9"/>
+			<attvalue for="domain" value="countries &amp; locations"/>
+		</attvalues>
+		</node>
+			<node id="3857" label="countries">
+			<viz:color r="53" g="132" b="28"/>
+			<viz:position x="-5000" y="30" z="0.0"/>
+			<viz:size value="7"/>
+			<attvalues>
+				<attvalue for="frequency" value="3"/>
+				<attvalue for="domain" value="countries &amp; locations"/>
+			</attvalues>
+			</node>
+				<node id="4029" label="europe">
+				<viz:color r="53" g="132" b="28"/>
+				<viz:position x="-2500" y="30" z="0.0"/>
+				<viz:size value="7"/>
+				<attvalues>
+					<attvalue for="frequency" value="3"/>
+					<attvalue for="domain" value="countries &amp; locations"/>
+				</attvalues>
+				</node>
+			<node id="4361" label="locations">
+			<viz:color r="53" g="132" b="28"/>
+			<viz:position x="-5000" y="60" z="0.0"/>
+			<viz:size value="13"/>
+			<attvalues>
+				<attvalue for="frequency" value="6"/>
+				<attvalue for="domain" value="countries &amp; locations"/>
+			</attvalues>
+			</node>
+				<node id="4414" label="site">
+				<viz:color r="53" g="132" b="28"/>
+				<viz:position x="-5000" y="30" z="0.0"/>
+				<viz:size value="7"/>
+				<attvalues>
+					<attvalue for="frequency" value="3"/>
+					<attvalue for="domain" value="countries &amp; locations"/>
+				</attvalues>
+				</node>
+		<node id="4427" label="crisis &amp; conflicts">
+		<viz:color r="149" g="31" b="52"/>
+		<viz:position x="-5000" y="280" z="0.0"/>
+		<viz:size value="57"/>
+		<attvalues>
+			<attvalue for="frequency" value="28"/>
+			<attvalue for="domain" value="crisis &amp; conflicts"/>
+		</attvalues>
+		</node>
+			<node id="4428" label="accidents">
+			<viz:color r="149" g="31" b="52"/>
+			<viz:position x="-5000" y="220" z="0.0"/>
+			<viz:size value="45"/>
+			<attvalues>
+				<attvalue for="frequency" value="22"/>
+				<attvalue for="domain" value="crisis &amp; conflicts"/>
+			</attvalues>
+			</node>
+				<node id="4429" label="collision">
+				<viz:color r="149" g="31" b="52"/>
+				<viz:position x="1900" y="220" z="0.0"/>
+				<viz:size value="45"/>
+				<attvalues>
+					<attvalue for="frequency" value="22"/>
+					<attvalue for="domain" value="crisis &amp; conflicts"/>
+				</attvalues>
+				</node>
+			<node id="4581" label="problems">
+			<viz:color r="149" g="31" b="52"/>
+			<viz:position x="-1700" y="50" z="0.0"/>
+			<viz:size value="11"/>
+			<attvalues>
+				<attvalue for="frequency" value="5"/>
+				<attvalue for="domain" value="crisis &amp; conflicts"/>
+			</attvalues>
+			</node>
+		<node id="6037" label="health, life &amp; casualties">
+		<viz:color r="91" g="131" b="77"/>
+		<viz:position x="-5000" y="70" z="0.0"/>
+		<viz:size value="15"/>
+		<attvalues>
+			<attvalue for="frequency" value="7"/>
+			<attvalue for="domain" value="health, life &amp; casualties"/>
+		</attvalues>
+		</node>
+			<node id="6047" label="body">
+			<viz:color r="91" g="131" b="77"/>
+			<viz:position x="-5000" y="30" z="0.0"/>
+			<viz:size value="7"/>
+			<attvalues>
+				<attvalue for="frequency" value="3"/>
+				<attvalue for="domain" value="health, life &amp; casualties"/>
+			</attvalues>
+			</node>
+				<node id="6055" label="body">
+				<viz:color r="91" g="131" b="77"/>
+				<viz:position x="2500" y="30" z="0.0"/>
+				<viz:size value="7"/>
+				<attvalues>
+					<attvalue for="frequency" value="3"/>
+					<attvalue for="domain" value="health, life &amp; casualties"/>
+				</attvalues>
+				</node>
+			<node id="9027" label="way">
+			<viz:color r="91" g="131" b="77"/>
+			<viz:position x="-5000" y="30" z="0.0"/>
+			<viz:size value="7"/>
+			<attvalues>
+				<attvalue for="frequency" value="3"/>
+				<attvalue for="domain" value="health, life &amp; casualties"/>
+			</attvalues>
+			</node>
+				<node id="9036" label="path">
+				<viz:color r="91" g="131" b="77"/>
+				<viz:position x="-2500" y="30" z="0.0"/>
+				<viz:size value="7"/>
+				<attvalues>
+					<attvalue for="frequency" value="3"/>
+					<attvalue for="domain" value="health, life &amp; casualties"/>
+				</attvalues>
+				</node>
+		<node id="9726" label="numbers, time &amp; dates">
+		<viz:color r="67" g="112" b="16"/>
+		<viz:position x="-5000" y="180" z="0.0"/>
+		<viz:size value="37"/>
+		<attvalues>
+			<attvalue for="frequency" value="18"/>
+			<attvalue for="domain" value="numbers, time &amp; dates"/>
+		</attvalues>
+		</node>
+			<node id="9947" label="time &amp; duration">
+			<viz:color r="67" g="112" b="16"/>
+			<viz:position x="-5000" y="160" z="0.0"/>
+			<viz:size value="33"/>
+			<attvalues>
+				<attvalue for="frequency" value="16"/>
+				<attvalue for="domain" value="numbers, time &amp; dates"/>
+			</attvalues>
+			</node>
+				<node id="9977" label="new">
+				<viz:color r="67" g="112" b="16"/>
+				<viz:position x="-5000" y="60" z="0.0"/>
+				<viz:size value="13"/>
+				<attvalues>
+					<attvalue for="frequency" value="6"/>
+					<attvalue for="domain" value="numbers, time &amp; dates"/>
+				</attvalues>
+				</node>
+				<node id="9990" label="time">
+				<viz:color r="67" g="112" b="16"/>
+				<viz:position x="0" y="70" z="0.0"/>
+				<viz:size value="15"/>
+				<attvalues>
+					<attvalue for="frequency" value="7"/>
+					<attvalue for="domain" value="numbers, time &amp; dates"/>
+				</attvalues>
+				</node>
+		<node id="10028" label="other concepts">
+		<viz:color r="129" g="67" b="37"/>
+		<viz:position x="-5000" y="2170" z="0.0"/>
+		<viz:size value="435"/>
+		<attvalues>
+			<attvalue for="frequency" value="217"/>
+			<attvalue for="domain" value="other concepts"/>
+		</attvalues>
+		</node>
+			<node id="10033" label="analysis">
+			<viz:color r="129" g="67" b="37"/>
+			<viz:position x="-1300" y="70" z="0.0"/>
+			<viz:size value="15"/>
+			<attvalues>
+				<attvalue for="frequency" value="7"/>
+				<attvalue for="domain" value="other concepts"/>
+			</attvalues>
+			</node>
+			<node id="10097" label="measure">
+			<viz:color r="129" g="67" b="37"/>
+			<viz:position x="3000" y="40" z="0.0"/>
+			<viz:size value="9"/>
+			<attvalues>
+				<attvalue for="frequency" value="4"/>
+				<attvalue for="domain" value="other concepts"/>
+			</attvalues>
+			</node>
+			<node id="10099" label="other concepts (less frequent)">
+			<viz:color r="129" g="67" b="37"/>
+			<viz:position x="-5000" y="360" z="0.0"/>
+			<viz:size value="73"/>
+			<attvalues>
+				<attvalue for="frequency" value="36"/>
+				<attvalue for="domain" value="other concepts"/>
+			</attvalues>
+			</node>
+				<node id="10109" label="arrangement">
+				<viz:color r="129" g="67" b="37"/>
+				<viz:position x="2500" y="30" z="0.0"/>
+				<viz:size value="7"/>
+				<attvalues>
+					<attvalue for="frequency" value="3"/>
+					<attvalue for="domain" value="other concepts"/>
+				</attvalues>
+				</node>
+				<node id="10149" label="model">
+				<viz:color r="129" g="67" b="37"/>
+				<viz:position x="2700" y="80" z="0.0"/>
+				<viz:size value="17"/>
+				<attvalues>
+					<attvalue for="frequency" value="8"/>
+					<attvalue for="domain" value="other concepts"/>
+				</attvalues>
+				</node>
+				<node id="10157" label="observation">
+				<viz:color r="129" g="67" b="37"/>
+				<viz:position x="0" y="30" z="0.0"/>
+				<viz:size value="7"/>
+				<attvalues>
+					<attvalue for="frequency" value="3"/>
+					<attvalue for="domain" value="other concepts"/>
+				</attvalues>
+				</node>
+				<node id="10160" label="piece">
+				<viz:color r="129" g="67" b="37"/>
+				<viz:position x="3300" y="50" z="0.0"/>
+				<viz:size value="11"/>
+				<attvalues>
+					<attvalue for="frequency" value="5"/>
+					<attvalue for="domain" value="other concepts"/>
+				</attvalues>
+				</node>
+				<node id="10166" label="resolution">
+				<viz:color r="129" g="67" b="37"/>
+				<viz:position x="-5000" y="30" z="0.0"/>
+				<viz:size value="7"/>
+				<attvalues>
+					<attvalue for="frequency" value="3"/>
+					<attvalue for="domain" value="other concepts"/>
+				</attvalues>
+				</node>
+					<node id="10167" label="solving">
+					<viz:color r="129" g="67" b="37"/>
+					<viz:position x="0" y="30" z="0.0"/>
+					<viz:size value="7"/>
+					<attvalues>
+						<attvalue for="frequency" value="3"/>
+						<attvalue for="domain" value="other concepts"/>
+					</attvalues>
+					</node>
+				<node id="10181" label="shock">
+				<viz:color r="129" g="67" b="37"/>
+				<viz:position x="2500" y="30" z="0.0"/>
+				<viz:size value="7"/>
+				<attvalues>
+					<attvalue for="frequency" value="3"/>
+					<attvalue for="domain" value="other concepts"/>
+				</attvalues>
+				</node>
+				<node id="10184" label="solution">
+				<viz:color r="129" g="67" b="37"/>
+				<viz:position x="-1300" y="70" z="0.0"/>
+				<viz:size value="15"/>
+				<attvalues>
+					<attvalue for="frequency" value="7"/>
+					<attvalue for="domain" value="other concepts"/>
+				</attvalues>
+				</node>
+			<node id="10200" label="other concepts (not frequent)">
+			<viz:color r="129" g="67" b="37"/>
+			<viz:position x="-5000" y="1300" z="0.0"/>
+			<viz:size value="261"/>
+			<attvalues>
+				<attvalue for="frequency" value="130"/>
+				<attvalue for="domain" value="other concepts"/>
+			</attvalues>
+			</node>
+				<node id="10330" label="distribution">
+				<viz:color r="129" g="67" b="37"/>
+				<viz:position x="0" y="30" z="0.0"/>
+				<viz:size value="7"/>
+				<attvalues>
+					<attvalue for="frequency" value="3"/>
+					<attvalue for="domain" value="other concepts"/>
+				</attvalues>
+				</node>
+				<node id="10364" label="fusion">
+				<viz:color r="129" g="67" b="37"/>
+				<viz:position x="2000" y="160" z="0.0"/>
+				<viz:size value="33"/>
+				<attvalues>
+					<attvalue for="frequency" value="16"/>
+					<attvalue for="domain" value="other concepts"/>
+				</attvalues>
+				</node>
+				<node id="10483" label="parameter">
+				<viz:color r="129" g="67" b="37"/>
+				<viz:position x="2500" y="30" z="0.0"/>
+				<viz:size value="7"/>
+				<attvalues>
+					<attvalue for="frequency" value="3"/>
+					<attvalue for="domain" value="other concepts"/>
+				</attvalues>
+				</node>
+				<node id="10484" label="particle">
+				<viz:color r="129" g="67" b="37"/>
+				<viz:position x="1900" y="420" z="0.0"/>
+				<viz:size value="85"/>
+				<attvalues>
+					<attvalue for="frequency" value="42"/>
+					<attvalue for="domain" value="other concepts"/>
+				</attvalues>
+				</node>
+				<node id="10525" label="reaction">
+				<viz:color r="129" g="67" b="37"/>
+				<viz:position x="2000" y="390" z="0.0"/>
+				<viz:size value="79"/>
+				<attvalues>
+					<attvalue for="frequency" value="39"/>
+					<attvalue for="domain" value="other concepts"/>
+				</attvalues>
+				</node>
+				<node id="10601" label="threshold">
+				<viz:color r="129" g="67" b="37"/>
+				<viz:position x="2500" y="30" z="0.0"/>
+				<viz:size value="7"/>
+				<attvalues>
+					<attvalue for="frequency" value="3"/>
+					<attvalue for="domain" value="other concepts"/>
+				</attvalues>
+				</node>
+			<node id="10639" label="procedure">
+			<viz:color r="129" g="67" b="37"/>
+			<viz:position x="0" y="30" z="0.0"/>
+			<viz:size value="7"/>
+			<attvalues>
+				<attvalue for="frequency" value="3"/>
+				<attvalue for="domain" value="other concepts"/>
+			</attvalues>
+			</node>
+			<node id="10662" label="search">
+			<viz:color r="129" g="67" b="37"/>
+			<viz:position x="1600" y="50" z="0.0"/>
+			<viz:size value="11"/>
+			<attvalues>
+				<attvalue for="frequency" value="5"/>
+				<attvalue for="domain" value="other concepts"/>
+			</attvalues>
+			</node>
+			<node id="10667" label="source">
+			<viz:color r="129" g="67" b="37"/>
+			<viz:position x="2500" y="30" z="0.0"/>
+			<viz:size value="7"/>
+			<attvalues>
+				<attvalue for="frequency" value="3"/>
+				<attvalue for="domain" value="other concepts"/>
+			</attvalues>
+			</node>
+			<node id="10672" label="system">
+			<viz:color r="129" g="67" b="37"/>
+			<viz:position x="-1200" y="120" z="0.0"/>
+			<viz:size value="25"/>
+			<attvalues>
+				<attvalue for="frequency" value="12"/>
+				<attvalue for="domain" value="other concepts"/>
+			</attvalues>
+			</node>
+			<node id="10673" label="thinkings &amp; cognition">
+			<viz:color r="129" g="67" b="37"/>
+			<viz:position x="-5000" y="30" z="0.0"/>
+			<viz:size value="7"/>
+			<attvalues>
+				<attvalue for="frequency" value="3"/>
+				<attvalue for="domain" value="other concepts"/>
+			</attvalues>
+			</node>
+				<node id="10680" label="cognition">
+				<viz:color r="129" g="67" b="37"/>
+				<viz:position x="-5000" y="30" z="0.0"/>
+				<viz:size value="7"/>
+				<attvalues>
+					<attvalue for="frequency" value="3"/>
+					<attvalue for="domain" value="other concepts"/>
+				</attvalues>
+				</node>
+		<node id="10971" label="politics &amp; society">
+		<viz:color r="176" g="91" b="119"/>
+		<viz:position x="-5000" y="250" z="0.0"/>
+		<viz:size value="51"/>
+		<attvalues>
+			<attvalue for="frequency" value="25"/>
+			<attvalue for="domain" value="politics &amp; society"/>
+		</attvalues>
+		</node>
+			<node id="11138" label="law &amp; justice">
+			<viz:color r="176" g="91" b="119"/>
+			<viz:position x="-5000" y="40" z="0.0"/>
+			<viz:size value="9"/>
+			<attvalues>
+				<attvalue for="frequency" value="4"/>
+				<attvalue for="domain" value="politics &amp; society"/>
+			</attvalues>
+			</node>
+			<node id="11770" label="property &amp; rights">
+			<viz:color r="176" g="91" b="119"/>
+			<viz:position x="-5000" y="100" z="0.0"/>
+			<viz:size value="21"/>
+			<attvalues>
+				<attvalue for="frequency" value="10"/>
+				<attvalue for="domain" value="politics &amp; society"/>
+			</attvalues>
+			</node>
+				<node id="11789" label="property &amp; estate">
+				<viz:color r="176" g="91" b="119"/>
+				<viz:position x="-5000" y="100" z="0.0"/>
+				<viz:size value="21"/>
+				<attvalues>
+					<attvalue for="frequency" value="10"/>
+					<attvalue for="domain" value="politics &amp; society"/>
+				</attvalues>
+				</node>
+					<node id="11799" label="property">
+					<viz:color r="176" g="91" b="119"/>
+					<viz:position x="-2300" y="100" z="0.0"/>
+					<viz:size value="21"/>
+					<attvalues>
+						<attvalue for="frequency" value="10"/>
+						<attvalue for="domain" value="politics &amp; society"/>
+					</attvalues>
+					</node>
+			<node id="12042" label="state">
+			<viz:color r="176" g="91" b="119"/>
+			<viz:position x="1200" y="70" z="0.0"/>
+			<viz:size value="15"/>
+			<attvalues>
+				<attvalue for="frequency" value="7"/>
+				<attvalue for="domain" value="politics &amp; society"/>
+			</attvalues>
+			</node>
+		<node id="12044" label="properties &amp; characteristics">
+		<viz:color r="57" g="32" b="41"/>
+		<viz:position x="-5000" y="1960" z="0.0"/>
+		<viz:size value="393"/>
+		<attvalues>
+			<attvalue for="frequency" value="196"/>
+			<attvalue for="domain" value="properties &amp; characteristics"/>
+		</attvalues>
+		</node>
+			<node id="12068" label="carriage">
+			<viz:color r="57" g="32" b="41"/>
+			<viz:position x="-2200" y="60" z="0.0"/>
+			<viz:size value="13"/>
+			<attvalues>
+				<attvalue for="frequency" value="6"/>
+				<attvalue for="domain" value="properties &amp; characteristics"/>
+			</attvalues>
+			</node>
+			<node id="12096" label="condition">
+			<viz:color r="57" g="32" b="41"/>
+			<viz:position x="-5000" y="30" z="0.0"/>
+			<viz:size value="7"/>
+			<attvalues>
+				<attvalue for="frequency" value="3"/>
+				<attvalue for="domain" value="properties &amp; characteristics"/>
+			</attvalues>
+			</node>
+			<node id="12097" label="consistency">
+			<viz:color r="57" g="32" b="41"/>
+			<viz:position x="-5000" y="90" z="0.0"/>
+			<viz:size value="19"/>
+			<attvalues>
+				<attvalue for="frequency" value="9"/>
+				<attvalue for="domain" value="properties &amp; characteristics"/>
+			</attvalues>
+			</node>
+				<node id="12100" label="compactness">
+				<viz:color r="57" g="32" b="41"/>
+				<viz:position x="0" y="50" z="0.0"/>
+				<viz:size value="11"/>
+				<attvalues>
+					<attvalue for="frequency" value="5"/>
+					<attvalue for="domain" value="properties &amp; characteristics"/>
+				</attvalues>
+				</node>
+				<node id="12107" label="softness">
+				<viz:color r="57" g="32" b="41"/>
+				<viz:position x="-1000" y="40" z="0.0"/>
+				<viz:size value="9"/>
+				<attvalues>
+					<attvalue for="frequency" value="4"/>
+					<attvalue for="domain" value="properties &amp; characteristics"/>
+				</attvalues>
+				</node>
+			<node id="12118" label="differences">
+			<viz:color r="57" g="32" b="41"/>
+			<viz:position x="-5000" y="50" z="0.0"/>
+			<viz:size value="11"/>
+			<attvalues>
+				<attvalue for="frequency" value="5"/>
+				<attvalue for="domain" value="properties &amp; characteristics"/>
+			</attvalues>
+			</node>
+				<node id="12119" label="difference">
+				<viz:color r="57" g="32" b="41"/>
+				<viz:position x="-3400" y="50" z="0.0"/>
+				<viz:size value="11"/>
+				<attvalues>
+					<attvalue for="frequency" value="5"/>
+					<attvalue for="domain" value="properties &amp; characteristics"/>
+				</attvalues>
+				</node>
+					<node id="12120" label="different">
+					<viz:color r="57" g="32" b="41"/>
+					<viz:position x="-5000" y="40" z="0.0"/>
+					<viz:size value="9"/>
+					<attvalues>
+						<attvalue for="frequency" value="4"/>
+						<attvalue for="domain" value="properties &amp; characteristics"/>
+					</attvalues>
+					</node>
+			<node id="12124" label="dimensions">
+			<viz:color r="57" g="32" b="41"/>
+			<viz:position x="-5000" y="60" z="0.0"/>
+			<viz:size value="13"/>
+			<attvalues>
+				<attvalue for="frequency" value="6"/>
+				<attvalue for="domain" value="properties &amp; characteristics"/>
+			</attvalues>
+			</node>
+			<node id="12163" label="equality &amp; sameness">
+			<viz:color r="57" g="32" b="41"/>
+			<viz:position x="-5000" y="250" z="0.0"/>
+			<viz:size value="51"/>
+			<attvalues>
+				<attvalue for="frequency" value="25"/>
+				<attvalue for="domain" value="properties &amp; characteristics"/>
+			</attvalues>
+			</node>
+				<node id="12166" label="similarity">
+				<viz:color r="57" g="32" b="41"/>
+				<viz:position x="-1200" y="250" z="0.0"/>
+				<viz:size value="51"/>
+				<attvalues>
+					<attvalue for="frequency" value="25"/>
+					<attvalue for="domain" value="properties &amp; characteristics"/>
+				</attvalues>
+				</node>
+			<node id="12243" label="motion">
+			<viz:color r="57" g="32" b="41"/>
+			<viz:position x="-1000" y="40" z="0.0"/>
+			<viz:size value="9"/>
+			<attvalues>
+				<attvalue for="frequency" value="4"/>
+				<attvalue for="domain" value="properties &amp; characteristics"/>
+			</attvalues>
+			</node>
+			<node id="12258" label="other characteristics">
+			<viz:color r="57" g="32" b="41"/>
+			<viz:position x="-5000" y="70" z="0.0"/>
+			<viz:size value="15"/>
+			<attvalues>
+				<attvalue for="frequency" value="7"/>
+				<attvalue for="domain" value="properties &amp; characteristics"/>
+			</attvalues>
+			</node>
+				<node id="12286" label="finiteness &amp; infiniteness">
+				<viz:color r="57" g="32" b="41"/>
+				<viz:position x="-5000" y="50" z="0.0"/>
+				<viz:size value="11"/>
+				<attvalues>
+					<attvalue for="frequency" value="5"/>
+					<attvalue for="domain" value="properties &amp; characteristics"/>
+				</attvalues>
+				</node>
+					<node id="12287" label="finiteness">
+					<viz:color r="57" g="32" b="41"/>
+					<viz:position x="-5000" y="50" z="0.0"/>
+					<viz:size value="11"/>
+					<attvalues>
+						<attvalue for="frequency" value="5"/>
+						<attvalue for="domain" value="properties &amp; characteristics"/>
+					</attvalues>
+					</node>
+			<node id="12408" label="physical properties">
+			<viz:color r="57" g="32" b="41"/>
+			<viz:position x="-5000" y="410" z="0.0"/>
+			<viz:size value="83"/>
+			<attvalues>
+				<attvalue for="frequency" value="41"/>
+				<attvalue for="domain" value="properties &amp; characteristics"/>
+			</attvalues>
+			</node>
+				<node id="12421" label="hard">
+				<viz:color r="57" g="32" b="41"/>
+				<viz:position x="-5000" y="40" z="0.0"/>
+				<viz:size value="9"/>
+				<attvalues>
+					<attvalue for="frequency" value="4"/>
+					<attvalue for="domain" value="properties &amp; characteristics"/>
+				</attvalues>
+				</node>
+				<node id="12422" label="heavy">
+				<viz:color r="57" g="32" b="41"/>
+				<viz:position x="-5000" y="290" z="0.0"/>
+				<viz:size value="59"/>
+				<attvalues>
+					<attvalue for="frequency" value="29"/>
+					<attvalue for="domain" value="properties &amp; characteristics"/>
+				</attvalues>
+				</node>
+				<node id="12424" label="inelasticity">
+				<viz:color r="57" g="32" b="41"/>
+				<viz:position x="-5000" y="50" z="0.0"/>
+				<viz:size value="11"/>
+				<attvalues>
+					<attvalue for="frequency" value="5"/>
+					<attvalue for="domain" value="properties &amp; characteristics"/>
+				</attvalues>
+				</node>
+			<node id="12449" label="possible">
+			<viz:color r="57" g="32" b="41"/>
+			<viz:position x="-5000" y="40" z="0.0"/>
+			<viz:size value="9"/>
+			<attvalues>
+				<attvalue for="frequency" value="4"/>
+				<attvalue for="domain" value="properties &amp; characteristics"/>
+			</attvalues>
+			</node>
+			<node id="12465" label="quantities">
+			<viz:color r="57" g="32" b="41"/>
+			<viz:position x="-5000" y="330" z="0.0"/>
+			<viz:size value="67"/>
+			<attvalues>
+				<attvalue for="frequency" value="33"/>
+				<attvalue for="domain" value="properties &amp; characteristics"/>
+			</attvalues>
+			</node>
+				<node id="12471" label="force">
+				<viz:color r="57" g="32" b="41"/>
+				<viz:position x="1000" y="40" z="0.0"/>
+				<viz:size value="9"/>
+				<attvalues>
+					<attvalue for="frequency" value="4"/>
+					<attvalue for="domain" value="properties &amp; characteristics"/>
+				</attvalues>
+				</node>
+				<node id="12477" label="masses">
+				<viz:color r="57" g="32" b="41"/>
+				<viz:position x="-5000" y="60" z="0.0"/>
+				<viz:size value="13"/>
+				<attvalues>
+					<attvalue for="frequency" value="6"/>
+					<attvalue for="domain" value="properties &amp; characteristics"/>
+				</attvalues>
+				</node>
+					<node id="12479" label="mass">
+					<viz:color r="57" g="32" b="41"/>
+					<viz:position x="3500" y="60" z="0.0"/>
+					<viz:size value="13"/>
+					<attvalues>
+						<attvalue for="frequency" value="6"/>
+						<attvalue for="domain" value="properties &amp; characteristics"/>
+					</attvalues>
+					</node>
+				<node id="12481" label="measurement">
+				<viz:color r="57" g="32" b="41"/>
+				<viz:position x="0" y="70" z="0.0"/>
+				<viz:size value="15"/>
+				<attvalues>
+					<attvalue for="frequency" value="7"/>
+					<attvalue for="domain" value="properties &amp; characteristics"/>
+				</attvalues>
+				</node>
+				<node id="12484" label="momentum">
+				<viz:color r="57" g="32" b="41"/>
+				<viz:position x="-2500" y="30" z="0.0"/>
+				<viz:size value="7"/>
+				<attvalues>
+					<attvalue for="frequency" value="3"/>
+					<attvalue for="domain" value="properties &amp; characteristics"/>
+				</attvalues>
+				</node>
+				<node id="12489" label="temperature">
+				<viz:color r="57" g="32" b="41"/>
+				<viz:position x="-5000" y="90" z="0.0"/>
+				<viz:size value="19"/>
+				<attvalues>
+					<attvalue for="frequency" value="9"/>
+					<attvalue for="domain" value="properties &amp; characteristics"/>
+				</attvalues>
+				</node>
+					<node id="12492" label="hotness">
+					<viz:color r="57" g="32" b="41"/>
+					<viz:position x="-5000" y="50" z="0.0"/>
+					<viz:size value="11"/>
+					<attvalues>
+						<attvalue for="frequency" value="5"/>
+						<attvalue for="domain" value="properties &amp; characteristics"/>
+					</attvalues>
+					</node>
+					<node id="12493" label="temperature">
+					<viz:color r="57" g="32" b="41"/>
+					<viz:position x="3000" y="40" z="0.0"/>
+					<viz:size value="9"/>
+					<attvalues>
+						<attvalue for="frequency" value="4"/>
+						<attvalue for="domain" value="properties &amp; characteristics"/>
+					</attvalues>
+					</node>
+			<node id="12504" label="range">
+			<viz:color r="57" g="32" b="41"/>
+			<viz:position x="2500" y="30" z="0.0"/>
+			<viz:size value="7"/>
+			<attvalues>
+				<attvalue for="frequency" value="3"/>
+				<attvalue for="domain" value="properties &amp; characteristics"/>
+			</attvalues>
+			</node>
+			<node id="12509" label="regularity &amp; uniformity">
+			<viz:color r="57" g="32" b="41"/>
+			<viz:position x="-5000" y="40" z="0.0"/>
+			<viz:size value="9"/>
+			<attvalues>
+				<attvalue for="frequency" value="4"/>
+				<attvalue for="domain" value="properties &amp; characteristics"/>
+			</attvalues>
+			</node>
+				<node id="12511" label="irregularity">
+				<viz:color r="57" g="32" b="41"/>
+				<viz:position x="3000" y="40" z="0.0"/>
+				<viz:size value="9"/>
+				<attvalues>
+					<attvalue for="frequency" value="4"/>
+					<attvalue for="domain" value="properties &amp; characteristics"/>
+				</attvalues>
+				</node>
+			<node id="12526" label="sound &amp; sound properties">
+			<viz:color r="57" g="32" b="41"/>
+			<viz:position x="-5000" y="30" z="0.0"/>
+			<viz:size value="7"/>
+			<attvalues>
+				<attvalue for="frequency" value="3"/>
+				<attvalue for="domain" value="properties &amp; characteristics"/>
+			</attvalues>
+			</node>
+			<node id="12540" label="spatial properties">
+			<viz:color r="57" g="32" b="41"/>
+			<viz:position x="-5000" y="150" z="0.0"/>
+			<viz:size value="31"/>
+			<attvalues>
+				<attvalue for="frequency" value="15"/>
+				<attvalue for="domain" value="properties &amp; characteristics"/>
+			</attvalues>
+			</node>
+				<node id="12542" label="asymmetry">
+				<viz:color r="57" g="32" b="41"/>
+				<viz:position x="-5000" y="40" z="0.0"/>
+				<viz:size value="9"/>
+				<attvalues>
+					<attvalue for="frequency" value="4"/>
+					<attvalue for="domain" value="properties &amp; characteristics"/>
+				</attvalues>
+				</node>
+				<node id="12560" label="shape">
+				<viz:color r="57" g="32" b="41"/>
+				<viz:position x="-5000" y="40" z="0.0"/>
+				<viz:size value="9"/>
+				<attvalues>
+					<attvalue for="frequency" value="4"/>
+					<attvalue for="domain" value="properties &amp; characteristics"/>
+				</attvalues>
+				</node>
+				<node id="12563" label="symmetry">
+				<viz:color r="57" g="32" b="41"/>
+				<viz:position x="-5000" y="60" z="0.0"/>
+				<viz:size value="13"/>
+				<attvalues>
+					<attvalue for="frequency" value="6"/>
+					<attvalue for="domain" value="properties &amp; characteristics"/>
+				</attvalues>
+				</node>
+			<node id="12565" label="speed">
+			<viz:color r="57" g="32" b="41"/>
+			<viz:position x="-5000" y="80" z="0.0"/>
+			<viz:size value="17"/>
+			<attvalues>
+				<attvalue for="frequency" value="8"/>
+				<attvalue for="domain" value="properties &amp; characteristics"/>
+			</attvalues>
+			</node>
+				<node id="12567" label="fast">
+				<viz:color r="57" g="32" b="41"/>
+				<viz:position x="-5000" y="70" z="0.0"/>
+				<viz:size value="15"/>
+				<attvalues>
+					<attvalue for="frequency" value="7"/>
+					<attvalue for="domain" value="properties &amp; characteristics"/>
+				</attvalues>
+				</node>
+		<node id="12626" label="sciences &amp; technology">
+		<viz:color r="81" g="98" b="95"/>
+		<viz:position x="-5000" y="1260" z="0.0"/>
+		<viz:size value="253"/>
+		<attvalues>
+			<attvalue for="frequency" value="126"/>
+			<attvalue for="domain" value="sciences &amp; technology"/>
+		</attvalues>
+		</node>
+			<node id="12679" label="chemistry &amp; chemical compounds">
+			<viz:color r="81" g="98" b="95"/>
+			<viz:position x="-5000" y="610" z="0.0"/>
+			<viz:size value="123"/>
+			<attvalues>
+				<attvalue for="frequency" value="61"/>
+				<attvalue for="domain" value="sciences &amp; technology"/>
+			</attvalues>
+			</node>
+				<node id="12680" label="atoms, ions and molecules">
+				<viz:color r="81" g="98" b="95"/>
+				<viz:position x="-5000" y="420" z="0.0"/>
+				<viz:size value="85"/>
+				<attvalues>
+					<attvalue for="frequency" value="42"/>
+					<attvalue for="domain" value="sciences &amp; technology"/>
+				</attvalues>
+				</node>
+					<node id="12685" label="ion">
+					<viz:color r="81" g="98" b="95"/>
+					<viz:position x="1400" y="410" z="0.0"/>
+					<viz:size value="83"/>
+					<attvalues>
+						<attvalue for="frequency" value="41"/>
+						<attvalue for="domain" value="sciences &amp; technology"/>
+					</attvalues>
+					</node>
+						<node id="12687" label="cation">
+						<viz:color r="81" g="98" b="95"/>
+						<viz:position x="1200" y="70" z="0.0"/>
+						<viz:size value="15"/>
+						<attvalues>
+							<attvalue for="frequency" value="7"/>
+							<attvalue for="domain" value="sciences &amp; technology"/>
+						</attvalues>
+						</node>
+				<node id="12692" label="chemical compounds">
+				<viz:color r="81" g="98" b="95"/>
+				<viz:position x="-5000" y="30" z="0.0"/>
+				<viz:size value="7"/>
+				<attvalues>
+					<attvalue for="frequency" value="3"/>
+					<attvalue for="domain" value="sciences &amp; technology"/>
+				</attvalues>
+				</node>
+				<node id="13431" label="metals">
+				<viz:color r="81" g="98" b="95"/>
+				<viz:position x="-5000" y="130" z="0.0"/>
+				<viz:size value="27"/>
+				<attvalues>
+					<attvalue for="frequency" value="13"/>
+					<attvalue for="domain" value="sciences &amp; technology"/>
+				</attvalues>
+				</node>
+					<node id="13432" label="actinides">
+					<viz:color r="81" g="98" b="95"/>
+					<viz:position x="0" y="50" z="0.0"/>
+					<viz:size value="11"/>
+					<attvalues>
+						<attvalue for="frequency" value="5"/>
+						<attvalue for="domain" value="sciences &amp; technology"/>
+					</attvalues>
+					</node>
+					<node id="13550" label="lanthanoid and rare earths">
+					<viz:color r="81" g="98" b="95"/>
+					<viz:position x="-5000" y="50" z="0.0"/>
+					<viz:size value="11"/>
+					<attvalues>
+						<attvalue for="frequency" value="5"/>
+						<attvalue for="domain" value="sciences &amp; technology"/>
+					</attvalues>
+					</node>
+			<node id="14845" label="electricity &amp; magnetism">
+			<viz:color r="81" g="98" b="95"/>
+			<viz:position x="-5000" y="60" z="0.0"/>
+			<viz:size value="13"/>
+			<attvalues>
+				<attvalue for="frequency" value="6"/>
+				<attvalue for="domain" value="sciences &amp; technology"/>
+			</attvalues>
+			</node>
+				<node id="14846" label="electric unit">
+				<viz:color r="81" g="98" b="95"/>
+				<viz:position x="-5000" y="30" z="0.0"/>
+				<viz:size value="7"/>
+				<attvalues>
+					<attvalue for="frequency" value="3"/>
+					<attvalue for="domain" value="sciences &amp; technology"/>
+				</attvalues>
+				</node>
+					<node id="14853" label="coulombs">
+					<viz:color r="81" g="98" b="95"/>
+					<viz:position x="2500" y="30" z="0.0"/>
+					<viz:size value="7"/>
+					<attvalues>
+						<attvalue for="frequency" value="3"/>
+						<attvalue for="domain" value="sciences &amp; technology"/>
+					</attvalues>
+					</node>
+			<node id="15080" label="mathematics &amp; logic">
+			<viz:color r="81" g="98" b="95"/>
+			<viz:position x="-5000" y="120" z="0.0"/>
+			<viz:size value="25"/>
+			<attvalues>
+				<attvalue for="frequency" value="12"/>
+				<attvalue for="domain" value="sciences &amp; technology"/>
+			</attvalues>
+			</node>
+				<node id="15107" label="mathematics">
+				<viz:color r="81" g="98" b="95"/>
+				<viz:position x="-5000" y="80" z="0.0"/>
+				<viz:size value="17"/>
+				<attvalues>
+					<attvalue for="frequency" value="8"/>
+					<attvalue for="domain" value="sciences &amp; technology"/>
+				</attvalues>
+				</node>
+					<node id="15134" label="equation">
+					<viz:color r="81" g="98" b="95"/>
+					<viz:position x="-2500" y="70" z="0.0"/>
+					<viz:size value="15"/>
+					<attvalues>
+						<attvalue for="frequency" value="7"/>
+						<attvalue for="domain" value="sciences &amp; technology"/>
+					</attvalues>
+					</node>
+				<node id="15227" label="probability &amp; statistics">
+				<viz:color r="81" g="98" b="95"/>
+				<viz:position x="-5000" y="40" z="0.0"/>
+				<viz:size value="9"/>
+				<attvalues>
+					<attvalue for="frequency" value="4"/>
+					<attvalue for="domain" value="sciences &amp; technology"/>
+				</attvalues>
+				</node>
+					<node id="15233" label="statistics">
+					<viz:color r="81" g="98" b="95"/>
+					<viz:position x="0" y="30" z="0.0"/>
+					<viz:size value="7"/>
+					<attvalues>
+						<attvalue for="frequency" value="3"/>
+						<attvalue for="domain" value="sciences &amp; technology"/>
+					</attvalues>
+					</node>
+			<node id="15373" label="physics &amp; astronomy">
+			<viz:color r="81" g="98" b="95"/>
+			<viz:position x="-5000" y="230" z="0.0"/>
+			<viz:size value="47"/>
+			<attvalues>
+				<attvalue for="frequency" value="23"/>
+				<attvalue for="domain" value="sciences &amp; technology"/>
+			</attvalues>
+			</node>
+				<node id="15414" label="physical phenomenons">
+				<viz:color r="81" g="98" b="95"/>
+				<viz:position x="-5000" y="30" z="0.0"/>
+				<viz:size value="7"/>
+				<attvalues>
+					<attvalue for="frequency" value="3"/>
+					<attvalue for="domain" value="sciences &amp; technology"/>
+				</attvalues>
+				</node>
+				<node id="15451" label="physics">
+				<viz:color r="81" g="98" b="95"/>
+				<viz:position x="-5000" y="190" z="0.0"/>
+				<viz:size value="39"/>
+				<attvalues>
+					<attvalue for="frequency" value="19"/>
+					<attvalue for="domain" value="sciences &amp; technology"/>
+				</attvalues>
+				</node>
+					<node id="15483" label="dynamics">
+					<viz:color r="81" g="98" b="95"/>
+					<viz:position x="2800" y="180" z="0.0"/>
+					<viz:size value="37"/>
+					<attvalues>
+						<attvalue for="frequency" value="18"/>
+						<attvalue for="domain" value="sciences &amp; technology"/>
+					</attvalues>
+					</node>
+			<node id="15535" label="sciences">
+			<viz:color r="81" g="98" b="95"/>
+			<viz:position x="-5000" y="30" z="0.0"/>
+			<viz:size value="7"/>
+			<attvalues>
+				<attvalue for="frequency" value="3"/>
+				<attvalue for="domain" value="sciences &amp; technology"/>
+			</attvalues>
+			</node>
+				<node id="15577" label="theory">
+				<viz:color r="81" g="98" b="95"/>
+				<viz:position x="-5000" y="30" z="0.0"/>
+				<viz:size value="7"/>
+				<attvalues>
+					<attvalue for="frequency" value="3"/>
+					<attvalue for="domain" value="sciences &amp; technology"/>
+				</attvalues>
+				</node>
+			<node id="15611" label="studies">
+			<viz:color r="81" g="98" b="95"/>
+			<viz:position x="-400" y="120" z="0.0"/>
+			<viz:size value="25"/>
+			<attvalues>
+				<attvalue for="frequency" value="12"/>
+				<attvalue for="domain" value="sciences &amp; technology"/>
+			</attvalues>
+			</node>
+			<node id="15631" label="technology &amp; technique">
+			<viz:color r="81" g="98" b="95"/>
+			<viz:position x="-5000" y="60" z="0.0"/>
+			<viz:size value="13"/>
+			<attvalues>
+				<attvalue for="frequency" value="6"/>
+				<attvalue for="domain" value="sciences &amp; technology"/>
+			</attvalues>
+			</node>
+				<node id="15633" label="methods">
+				<viz:color r="81" g="98" b="95"/>
+				<viz:position x="-5000" y="50" z="0.0"/>
+				<viz:size value="11"/>
+				<attvalues>
+					<attvalue for="frequency" value="5"/>
+					<attvalue for="domain" value="sciences &amp; technology"/>
+				</attvalues>
+				</node>
+		<node id="15649" label="things &amp; substances">
+		<viz:color r="110" g="75" b="18"/>
+		<viz:position x="-5000" y="140" z="0.0"/>
+		<viz:size value="29"/>
+		<attvalues>
+			<attvalue for="frequency" value="14"/>
+			<attvalue for="domain" value="things &amp; substances"/>
+		</attvalues>
+		</node>
+			<node id="15671" label="devices">
+			<viz:color r="110" g="75" b="18"/>
+			<viz:position x="-5000" y="100" z="0.0"/>
+			<viz:size value="21"/>
+			<attvalues>
+				<attvalue for="frequency" value="10"/>
+				<attvalue for="domain" value="things &amp; substances"/>
+			</attvalues>
+			</node>
+				<node id="15742" label="mechanisms">
+				<viz:color r="110" g="75" b="18"/>
+				<viz:position x="-5000" y="70" z="0.0"/>
+				<viz:size value="15"/>
+				<attvalues>
+					<attvalue for="frequency" value="7"/>
+					<attvalue for="domain" value="things &amp; substances"/>
+				</attvalues>
+				</node>
+					<node id="15764" label="mechanism">
+					<viz:color r="110" g="75" b="18"/>
+					<viz:position x="2100" y="60" z="0.0"/>
+					<viz:size value="13"/>
+					<attvalues>
+						<attvalue for="frequency" value="6"/>
+						<attvalue for="domain" value="things &amp; substances"/>
+					</attvalues>
+					</node>
+	<node id="d1" label="texts-1995.txt">
+	<viz:color r="255" g="255" b="255"/>
+	<viz:size value="16"/>
+	<viz:position x="-5000.0" y="-5000" z="0.0"/>
+	<attvalues>
+		<attvalue for="frequency" value="15"/>
+		<attvalue for="domain" value="#documents"/>
+	</attvalues>
+	</node>
+	</nodes>
+	<edges>
+		<edge id="1" source="d1" target="1761" weight="1"/>
+		<edge id="2" source="d1" target="1791" weight="1"/>
+		<edge id="3" source="d1" target="1880" weight="1"/>
+		<edge id="4" source="d1" target="1886" weight="10"/>
+		<edge id="5" source="d1" target="2453" weight="1"/>
+		<edge id="6" source="d1" target="2981" weight="1"/>
+		<edge id="7" source="d1" target="2982" weight="18"/>
+		<edge id="8" source="d1" target="2997" weight="24"/>
+		<edge id="9" source="d1" target="3151" weight="1"/>
+		<edge id="10" source="d1" target="3192" weight="1"/>
+		<edge id="11" source="d1" target="3194" weight="8"/>
+		<edge id="12" source="d1" target="3280" weight="1"/>
+		<edge id="13" source="d1" target="3326" weight="1"/>
+		<edge id="14" source="d1" target="3354" weight="42"/>
+		<edge id="15" source="d1" target="3378" weight="1"/>
+		<edge id="16" source="d1" target="3381" weight="1"/>
+		<edge id="17" source="d1" target="3414" weight="1"/>
+		<edge id="18" source="d1" target="3417" weight="6"/>
+		<edge id="19" source="d1" target="3436" weight="1"/>
+		<edge id="20" source="d1" target="3444" weight="4"/>
+		<edge id="21" source="d1" target="3842" weight="1"/>
+		<edge id="22" source="d1" target="3857" weight="1"/>
+		<edge id="23" source="d1" target="4029" weight="1"/>
+		<edge id="24" source="d1" target="4361" weight="1"/>
+		<edge id="25" source="d1" target="4414" weight="3"/>
+		<edge id="26" source="d1" target="4427" weight="1"/>
+		<edge id="27" source="d1" target="4428" weight="1"/>
+		<edge id="28" source="d1" target="4429" weight="22"/>
+		<edge id="29" source="d1" target="4581" weight="5"/>
+		<edge id="30" source="d1" target="6037" weight="1"/>
+		<edge id="31" source="d1" target="6047" weight="1"/>
+		<edge id="32" source="d1" target="6055" weight="3"/>
+		<edge id="33" source="d1" target="9027" weight="1"/>
+		<edge id="34" source="d1" target="9036" weight="3"/>
+		<edge id="35" source="d1" target="9726" weight="1"/>
+		<edge id="36" source="d1" target="9947" weight="1"/>
+		<edge id="37" source="d1" target="9977" weight="6"/>
+		<edge id="38" source="d1" target="9990" weight="7"/>
+		<edge id="39" source="d1" target="10028" weight="1"/>
+		<edge id="40" source="d1" target="10033" weight="7"/>
+		<edge id="41" source="d1" target="10097" weight="4"/>
+		<edge id="42" source="d1" target="10099" weight="1"/>
+		<edge id="43" source="d1" target="10109" weight="3"/>
+		<edge id="44" source="d1" target="10149" weight="8"/>
+		<edge id="45" source="d1" target="10157" weight="3"/>
+		<edge id="46" source="d1" target="10160" weight="5"/>
+		<edge id="47" source="d1" target="10166" weight="1"/>
+		<edge id="48" source="d1" target="10167" weight="3"/>
+		<edge id="49" source="d1" target="10181" weight="3"/>
+		<edge id="50" source="d1" target="10184" weight="7"/>
+		<edge id="51" source="d1" target="10200" weight="1"/>
+		<edge id="52" source="d1" target="10330" weight="3"/>
+		<edge id="53" source="d1" target="10364" weight="16"/>
+		<edge id="54" source="d1" target="10483" weight="3"/>
+		<edge id="55" source="d1" target="10484" weight="42"/>
+		<edge id="56" source="d1" target="10525" weight="39"/>
+		<edge id="57" source="d1" target="10601" weight="3"/>
+		<edge id="58" source="d1" target="10639" weight="3"/>
+		<edge id="59" source="d1" target="10662" weight="5"/>
+		<edge id="60" source="d1" target="10667" weight="3"/>
+		<edge id="61" source="d1" target="10672" weight="12"/>
+		<edge id="62" source="d1" target="10971" weight="1"/>
+		<edge id="63" source="d1" target="11770" weight="1"/>
+		<edge id="64" source="d1" target="11789" weight="1"/>
+		<edge id="65" source="d1" target="11799" weight="10"/>
+		<edge id="66" source="d1" target="12042" weight="7"/>
+		<edge id="67" source="d1" target="12044" weight="1"/>
+		<edge id="68" source="d1" target="12068" weight="6"/>
+		<edge id="69" source="d1" target="12096" weight="3"/>
+		<edge id="70" source="d1" target="12097" weight="1"/>
+		<edge id="71" source="d1" target="12100" weight="5"/>
+		<edge id="72" source="d1" target="12107" weight="4"/>
+		<edge id="73" source="d1" target="12118" weight="1"/>
+		<edge id="74" source="d1" target="12119" weight="2"/>
+		<edge id="75" source="d1" target="12120" weight="4"/>
+		<edge id="76" source="d1" target="12163" weight="1"/>
+		<edge id="77" source="d1" target="12166" weight="25"/>
+		<edge id="78" source="d1" target="12243" weight="4"/>
+		<edge id="79" source="d1" target="12258" weight="1"/>
+		<edge id="80" source="d1" target="12286" weight="1"/>
+		<edge id="81" source="d1" target="12287" weight="5"/>
+		<edge id="82" source="d1" target="12408" weight="1"/>
+		<edge id="83" source="d1" target="12421" weight="4"/>
+		<edge id="84" source="d1" target="12422" weight="29"/>
+		<edge id="85" source="d1" target="12424" weight="5"/>
+		<edge id="86" source="d1" target="12449" weight="4"/>
+		<edge id="87" source="d1" target="12465" weight="1"/>
+		<edge id="88" source="d1" target="12471" weight="4"/>
+		<edge id="89" source="d1" target="12477" weight="1"/>
+		<edge id="90" source="d1" target="12479" weight="6"/>
+		<edge id="91" source="d1" target="12481" weight="7"/>
+		<edge id="92" source="d1" target="12484" weight="3"/>
+		<edge id="93" source="d1" target="12489" weight="1"/>
+		<edge id="94" source="d1" target="12492" weight="5"/>
+		<edge id="95" source="d1" target="12493" weight="4"/>
+		<edge id="96" source="d1" target="12504" weight="3"/>
+		<edge id="97" source="d1" target="12509" weight="1"/>
+		<edge id="98" source="d1" target="12511" weight="4"/>
+		<edge id="99" source="d1" target="12540" weight="1"/>
+		<edge id="100" source="d1" target="12542" weight="4"/>
+		<edge id="101" source="d1" target="12560" weight="4"/>
+		<edge id="102" source="d1" target="12563" weight="6"/>
+		<edge id="103" source="d1" target="12565" weight="1"/>
+		<edge id="104" source="d1" target="12567" weight="7"/>
+		<edge id="105" source="d1" target="12626" weight="1"/>
+		<edge id="106" source="d1" target="12679" weight="1"/>
+		<edge id="107" source="d1" target="12680" weight="1"/>
+		<edge id="108" source="d1" target="12685" weight="35"/>
+		<edge id="109" source="d1" target="12687" weight="7"/>
+		<edge id="110" source="d1" target="13431" weight="1"/>
+		<edge id="111" source="d1" target="13432" weight="3"/>
+		<edge id="112" source="d1" target="14845" weight="1"/>
+		<edge id="113" source="d1" target="14846" weight="1"/>
+		<edge id="114" source="d1" target="14853" weight="3"/>
+		<edge id="115" source="d1" target="15080" weight="1"/>
+		<edge id="116" source="d1" target="15107" weight="1"/>
+		<edge id="117" source="d1" target="15134" weight="7"/>
+		<edge id="118" source="d1" target="15227" weight="2"/>
+		<edge id="119" source="d1" target="15233" weight="2"/>
+		<edge id="120" source="d1" target="15373" weight="1"/>
+		<edge id="121" source="d1" target="15451" weight="1"/>
+		<edge id="122" source="d1" target="15483" weight="18"/>
+		<edge id="123" source="d1" target="15535" weight="1"/>
+		<edge id="124" source="d1" target="15577" weight="3"/>
+		<edge id="125" source="d1" target="15611" weight="12"/>
+		<edge id="126" source="d1" target="15631" weight="1"/>
+		<edge id="127" source="d1" target="15633" weight="5"/>
+		<edge id="128" source="d1" target="15649" weight="1"/>
+		<edge id="129" source="d1" target="15671" weight="1"/>
+		<edge id="130" source="d1" target="15742" weight="1"/>
+		<edge id="131" source="d1" target="15764" weight="6"/>
+	</edges>
+	</graph>
+</gexf>

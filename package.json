@@ -1,0 +1,11 @@
+{
+  "name": "mines-nantes-publications",
+  "version": "1.0.0",
+  "description": "## Aim The aim of this project is to provide an exploration tool on the scientific publications of the Mines Nantes.   This is a school project of ordered by Mines Nantes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "legaultpierre",
+  "license": "ISC"
+}

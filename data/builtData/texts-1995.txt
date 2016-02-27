@@ -1,0 +1,133 @@
+climatic data handbook for europe: climatic data for the design of solar energy systems. null
+adsorption of several actinide (th-u) and lanthanide (la-eu-yb) ions by myobacterium smegmatis. adsorption measurements of several actinide [thorium (th), uranium (u)] and lanthanide [lanthanum (la), europium (eu), ytterbium (yb)] cations by mycobacterium smegmatis showed that sorption kinetics followed a three-phase pattern. for 5% (w/w) bacterial suspensions at ph 1, maximum cation biosorption per gram dry biomass corresponded to 170 mumol th4+ and 187 mumol uo22+. adsorption of all cations studied obeyed the brunauer-emmett-teller isotherm, which assumes multilayer binding at constant energy. plots for the scatchard model showed the existence of at least two types of cation complexation site, with strong and weak affinity and negative cooperation. th4+ was preferentially adsorbed with respect to the other cations, although all species appeared to compete for the same sites independently of bacterial viability. adsorption of these cations was accompanied by partial release of magnesium from the cell wall, indicating that exchange reactions occurred at magnesium (mg)-bonding sites.
+decoupling without prediction of linear systems with delays: a structural approach. we exhibit, using a new structural approach specific for linear systems with delays, a necessary and sufficient condition for static row-by-row decoupling without prediction. moreover, the decoupling problem is analyzed through two different concepts: the total one (without any time assumption), and the partial one (in a temporal mean), which can be considered if the total one has no solution.
+logic programming environments: dynamic program analysis and debugging. null
+tonneau: a multidetector array for charged-particle and light-fragment 4π detection. null
+exclusive study of nucleus-nucleus reactions at intermediate energies : impact parameter dependence of preequilibrium emission, collective flow and hot nuclei formation. null
+simulation of an open chain of flexible links in a mixed formalism. null
+complexation of actinide and alkali metal cations by carboxylated calix[4]arenes. null
+extraction of u(vi) and np(v) by a calix[4]arene bearing carboxylic groups. null
+extending chip in order to solve complex scheduling and placement problems. null
+using pivot consistency to decompose and solve functional csps. many studies have been carried out in order to increase the search efficiency of constraint satisfaction problems; among them, some make use of {\em structural} properties of the constraint network; others take into account {\em semantic} properties of the constraints, generally assuming that {\em all} the constraints possess the given property. in this paper, we propose a new decomposition method benefiting from both semantic properties of {\em functional} constraints (not {\em bijective} constraints) and structural properties of the network; furthermore, not all the constraints need to be functional. we show that under some conditions, the existence of solutions can be guaranteed. we first characterize a particular subset of the variables, which we name a {\em root set}. we then introduce {\em pivot consistency}, a new local consistency which is a we ak form of path consistency and can be achieved in $o(n^2d^2)$ complexity (instead of $o(n^3d^3)$ for path consistency), and we present associated properti es; in particular, we show that any consistent instantiation of the root set can be linearly extended to a solution, which leads to the presentation of the aforementioned new method for solving by decomposing functional {\sc csp}s.
+introducing global constraints in chip. null
+efficient labeling and constraint relaxation for solving time tabling problems. null
+simultaneous computation of the wilcoxon's and ansari-bradley's statistics for small samples. null
+approximations for pci bias correlation factor under normality. null
+macroscopic dynamics of the fusion process. a macroscopic dynamical model has been used to calculate fusion cross sections for a wide number of systems ranging from 16o + 27al to 40ar + 165ho. this model takes into account the reorganization of the densities and the nucleon exchanges. the possible reaction mechanisms after capture of the system into the pocket of the interaction potential are discussed two processes contribute to fusion : compound nucleus formation and fast fission phenomenon. the calculated fusion cross sections are in overall agreement with the data.
+solutions of the landau-vlasov equation in nuclear physics. the properties of vlasov equation solutions obtained by projection on coherent state basis are discussed. such solutions satisfy stationarity conditions and satisfactorily describe the average diffusivity of nuclear phase space and reproduce the bulk properties of nuclei. sampling methods and their effects on dynamics are discussed for the study of heavy ion reactions at intermediate energies. the non-local gogny force is easily computable on this basis which allows to use it for dynamical nuclear studies.
+a study on the fusion reaction 139la + 12c at 50 mev/u with the vuu equation. recently bownan et al. found that in the reaction 139la + 12c at 50 mev/u a compound nucleus is formed. we simulate this reaction with a numerical solution of the vuu equation and indeed find that for a central collision the system fuses and equilibrates after 90 fm/c.
+phase space dynamics of heavy ion nuclear collisions in the fermi energy domain. null
+differential algebraic equations : a new look at the index. null
+asymmetric fission of $^{149}$tb and $^{94}$mo leading to intermediate mass fragments. null
+asymmetric fission barriers and total kinetic energies for $^{194}$hg, $^{149}$tb, $^{110–112}$in, $^{94}$mo, and $^{75}$br. null
+multidimensional model of subbarrier heavy-ion fusion. null
+evaporation, fission and fragmentation of hot rotating nuclei. null
+evolution of fragment distributions and reaction mechanisms for the ar+ni system from 32 to 95 a.mev. within the framework of flow and multifragmentation study, the 36ar+58ni experiment has been performed at seven incident energies from 32 to 95 a.mev with the indra detector at ganil. after a brief description of the experimental set-up, the main trends as well as the evolution of fragment distributions will be presented. some results about reaction mechanisms for particular classes of events will conclude this report.
+fragmentation in central pb + au collisions within a microscopic dynamic approach. null
+on the stability of rotating nuclei against fission through creviced shapes. null
+nuclear dynamics with the finite-range gogny force. null
+nuclear dynamics with the (finite range) gogny force : flow effects. null
+evidence for persisting mean field effects at e/a = 60 mev from particle-particle correlation measurements and theoretical investigations with the landau vlasov equation. null
+temperature measurements at backward angles in $^{40}$ar induced reactions on ag at e/a=44mev. null
+evidence for stopping in heavy ion collisions from a study of hard photon source velocities. null
+hard photon as a probe to study dissipation mechanisms. null
+states of $^{76}$ge via (pp') inelastic scattering at 22 mev. null
+spectroscopy of $^{28}$p levels using the ($^3$he, t) reaction. null
+investigation of states in $^{30}$p via the $^{30}$si($^3$he,t)$^{30}$p reaction at 30 mev. null
+elastic and inelastic scattering of 22 mev protons from natural even-even zn and ge isotopes - 1 - spectroscopy of the $^{64,66}$zn isotopes. null
+coulomb displacement energy calculations for the a = 28, t = 1 triad. null
+timescale of particle emission using nuclear interferometry. null
+states of $^{74}$ge via the (pp') inelastic scattering at 22 mev. null
+search for nuclear structure dependence of analyzing powers for the (tp) reaction in medium mass nuclei. null
+octupole modes of oscillation via analyzing power measurements. null
+fusion excitation function of the $^{40}$ca + $^{40}$ca system close to the threshold. null
+fission following capture reactions of $^{32}$s + $^{208}$pb. null
+analyzing power measurements for two-nucleon transfer reactions in a shape transitional nucleus. null
+alpha-particle transfer to 0+ states in the germanium nuclei and the role of proton pairing correlations. null
+three dissipative regimes in heavy ion reactions. null
+the fusion process in landau-vlasov dynamics. null
+semi-classical dynamics of heavy-ion reactions. null
+semi-classical approaches to the phase space evolutions in intermediate energy heavy ion collisions. null
+semiclassical approaches to proton emission in intermediate-energy heavy-ion reactions. null
+quantal fluctuations and invariant operators for a gneeral time-dependent harmonic oscillator. null
+quantal dynamics of charge equilibration in damped nuclear collisions. null
+peripheral reactions at intermediate energies in landau-vlasov dynamics. null
+geometry and dynamics of a zero-temperature fermi-gas model for preequilibrium emission of nucleons with application to $^{16}$o + $^{93}$nb at $e_{lab}$ = 204 mev. null
+general properties of gausson-conserving descriptions of quantal damped motion. null
+fast nucleon emission: a probe of the heavy ion reactions at energies below 100 mev/u. null
+fast fission phenomenon deep inelastic reactions and compound nucleus formation described within a dynamical macroscopic model. null
+fast fission phenomenon. null
+fast fission: a dissipate mechanism following sometimes fusion. null
+damping of the wave packet motion in a general time-dependent quadratic field. null
+constants of motion and non-stationary wave functions for the damped time-dependent harmonic oscillator. null
+cold production of fast nucleons in central heavy-ion reactions. null
+coherent state propagation in open systems. null
+coherent production of fast nucleons in heavy-ion reactions. null
+cluster jets as a possible alpha emission mechanism in intermediate energy heavy ion collisions. null
+ternary fission through compact and creviced shapes. null
+symmetrical fusion of heavy ions around the coulomb barrier energy. null
+static and dynamic fusion barriers in heavy-ion reactions. null
+relaxed-density potential and fusion cross section saturation for light and medium nuclei. null
+on the projectile fragmentation in heavy-ion reactions at intermediates energies. null
+on the fission barrier of heavy and superheavy nuclei. null
+fission processes through compact and creviced shapes. null
+a geometrical model for the fusion of identical nuclei. null
+selection of violent collisions by neutron calorimetry for interferometry measurements. null
+search for lifetime effects in the decay of an evaporative source using two particle correlations. null
+hard photon interferometry in the reaction xe + au at 44 a mev. null
+hard photon intensity interferometry in heavy ion collisions. null
+two-proton correlation function measured at very small relative momenta. null
+hyperdeformation of rotating nulei within the generalized liquid-drop model. null
+on the production and decay of hot nuclei. null
+mean-field dissipation and fluctuations in heavy-ion reactions. null
+lorentz-covariant description of intermediate energy heavy-ion reactions in relativistic quantum molecular dynamics. null
+the quantum molecular dynamics approach. null
+total cross sections for the pp $\pi^0$ channel in the inelastic pp interaction. null
+times scales for spinodals decomposition in nuclear matter with pseudoparticle models. null
+subthreshold pion production in nucleus-nucleus collisions within the quantum molecular dynamics approach. null
+sub-barrier fusion of $^{64}$ni + $^{100}$mo. null
+study of energy deposition in heavy-ion reactions. null
+semiclassical simulation of sudden nucleus scission with two-body collisions. null
+relaxed-density potential of deformed u + u nuclei. null
+relaxed and quasi-projectile fragments in heavy-ion reactions. null
+prolate deformations induced by the proximity forces in the scission region. null
+potential surfaces in symmetric heavy-ion reactions. null
+on the symmetric fragmentation barrier at finite temperature. null
+on the plane fragmentation barriers. null
+on the fission of $^{56}$ni and $^{48}$cr rotating nuclei. null
+on the energy shape dependences of ellipsoidal leptodermous systems. null
+on nuclear ternary fission. null
+observation of lifetime effects in two-proton correlations for well-characterized sources. null
+nuclear matter with a pseudo-particle model : static bulk and surface properties. null
+multifragmentation near the threshold. null
+mass dependence of the disappearance of flow in nuclear collisions. null
+mass dependence of pion production in heavy ion collisions near but below threshold. null
+isospin effects on dynamics of heavy-ion collisions. null
+impact-parameter-selected two-proton intensity interferometry for $^{36}$ar + $^{45}$sc at e/a = 80 mev. null
+hyperdeformation in $^{152}$dy at very high spins. null
+high energy gamma ray production in proton-induced reactions at 104, 145 and 195 mev. null
+fusion barrier lowering induced by nuclear deformations. null
+from stochastic phase-space evolution to brownian motion in collective space. null
+from fission to scattering in the $^{100}$mo (18.7 mev/u) + $^{100}$mo reaction within a microscopic dynamic approach. null
+fluctuations of one-body observables. null
+fluctuations in one-body dynamics. null
+fission barrier of projectiles in heavy-ion reactions. null
+dynamics of hot rotating nuclei. null
+deexcitation of single excited nuclei in the qmd model. null
+cosmic rays in taps. null
+comparison between the symmetric fission and fusion paths. null
+classical and quantum approach to light-particle correlations in intermediate-energy heavy-ion reactions. null
+binary and ternary fission of hot and rotating nuclei. null
+possible dynamical limitations to excitation energy storage in nuclei. null
+mass identification in heavy ion collection with the spectrometer soleno. null
+heavy ion colomb excitation and gamma decay studies of the one and two phonon giant dipole resonances in $^{208}$pb and $^{209}$bi. null
+dynamics of violent collisions induced by ar on ag between 27 and 60 mev/nucleon: persistance of binary dissipative collisions and temperature limits. null
+experimental search for coherent subthreshold pion production. null
+coulomb instability in collisions between very heavy nuclei around 30 mev per nucleon. null
+search for an enhanced production of low energy pions in c($p, \pi^+)x$, cu($p, \pi^+)x$, and cu($p, \pi^0)x$ reactions for 300 mev $\leq t_p \leq$ 400 mev. null
+what can we learn on the nuclear equation of state from the inversion of the flow in heavy ion reactions ?. many different approaches to the geometric and statistical analysis of document layouts have been proposed in the literature. the development of practical branchand- bound algorithms for solving geometric matching problems under noise and uncertainty has enabled the formulation of new classes of geometric layout analysis methods based on globally optimal maximum likelihood interpretations for well-defined models of the spatial statistics of document images. i review this approach to geometric layout analysis using text line finding and column finding in the presence of noise and uncertainty as examples and compare the approach with selected other statistical and geometric layout analysis methods.
+analysis of the transverse momentum collective motion in heavy-ion collisions below 100 mev/nucleon. a theoretical analysis of collective momentum transfer is performed in heavy-ion reactions below 100 mev/nucleon in the landau-vlasov approach. the nucleon-nucleon cross section, atomic mass, compressibility, and effective mass dependences are analyzed. the simulation of detector acceptances and of finite number of detected particles are discussed. in connection with recent experiments, theoretical results and experimental data are confronted taking into account the experimental constraints. finite range forces of the gogny type connected with different nuclear matter incompressibilities are used and the ensuing sensitivity of the flow is studied. the question whether the flow provides information on out-of-equilibrium matter properties is investigated.
+observation of a saturation in the time scale for multifragment emission in symmetric heavy-ion collisions. null
+possible observation of medium effects using a pion correlation technique. null
+effects of gogny-type interactions on the nuclear flow. a flow analysis on symmetric and asymmetric reactions from 100 to 400 mev/nucleon is performed in the framework of the semiclassical landau-vlasov approach. in this energy range our results present two different trends. at lower energies it is governed by the momentum dependence of the nuclear optical potential, whereas at higher energies its density dependence plays a crucial role leading to a rather pronounced sensitivity to the incompressibility modulus. the nonlocality of the nuclear interaction is relevant for asymmetric colliding systems. with an incompressibility modulus in the vicinity of 200 mev, an excellent quantitative description of the flow behavior with incident energy and impact parameter or the system mass is provided.
+a novel approach to rescattering in ultrarelativistic heavy ion collisions. in ultrarelativistic heavy-ion collisions the phase space density of produced hadrons is that high that their interaction cannot be treated anymore as a sequence of binary hadron-hadron collisions. here many hadrons overlap simultaneously. we assume that they form a parton cluster which decays according to the available phase space. this concept has been implemented in the string model venus (4.00) and tested by comparison with s + s data. it turns out that in this approach the yet not understood distribution of image and ks can be reproduced for the first time.

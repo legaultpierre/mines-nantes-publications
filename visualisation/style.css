@@ -1,0 +1,204 @@
+@font-face {
+  font-family: 'geoSansLight';
+  src: url('../fonts/GeosansLight.ttf');
+}
+
+html, body{
+  height: 80%;
+  margin-top: 0;
+  font-family: 'geoSansLight';
+}
+#mainContainer {
+  margin-top: 0;
+  font-family: 'geoSansLight';
+
+}
+h1, #boxesContainer, #graphInfo {
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  letter-spacing: 1px;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 500;
+}
+h2 {
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+p {
+  font-size: 20px;
+  margin-top: -10px;
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+table{
+  border-spacing: 0px;
+}
+thead {
+  margin-bottom: 10px;
+}
+th, td {
+  width: 75%;
+}
+th:nth-child(2), td:nth-child(2) {
+  text-align: center;
+  width :25%;
+  padding-right: 5px;
+}
+.pointable {
+  cursor: pointer;
+}
+.fullWidth {
+  width: 100%;
+}
+
+button {
+  cursor: pointer;
+}
+
+button.active {
+  background: #ccc !important;
+  cursor: initial;
+  color: inherit;
+}
+
+ul {
+  margin-top: 3px;
+  list-style: none;
+  padding-left: 5px;
+}
+li {
+  padding: 2px 0px 2px 0px;
+}
+#firstRightBox li {
+  padding: 7px 0px 7px 0px;
+}
+.bold {
+  font-weight: 900;
+}
+.lighterBold {
+  font-weight: 600;
+}
+.italic {
+  font-style: italic;
+}
+.noTopMargin {
+  margin-top: 0px !important;
+}
+
+#boxesContainer {
+  display: flex;
+  height: 600px;
+}
+
+#leftPart {
+  width: 75%;
+  height: 600px;
+  
+}
+#mainGraphContainer {
+  height: 100%;
+}
+
+#zoomButtons {
+  width: 0px;
+  height: 0px;
+  position: relative;
+  top: 240px;
+  left: -40px;
+}
+
+#zoomButtons button {
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  background: transparent;
+  border-radius: 5px;
+}
+#zoomButtons button:hover {
+  background: #ccc;
+}
+
+#yearButtons {
+  text-align: center;
+  width: 100%;
+}
+#yearButtons button{
+  margin: 4px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  background: transparent;
+  border-radius: 5px; 
+}
+#yearButtons button:hover{
+  background: #ccc;
+}
+
+#rightBox {
+  margin-left: 20px;
+  margin-right: 2%;
+  width: 16%;
+  height: 600px;
+}
+
+
+
+#mainGraphContainer, #firstRightBox,
+#secondRightBox, #graphInfo, .clusterRectangle {
+  border: 1px solid black;
+}
+
+#firstRightBox {
+  height: 437px;
+}
+#secondRightBox {
+  height: 140px;
+  margin-bottom: 20px;
+}
+
+#noInfo {
+  margin-top: 20px;
+}
+
+.clusterRectangle {
+  width: 50px;
+  height: 25px;
+}
+.legendTitle {
+  margin-left: 5px;
+  line-height: 25px;
+}
+.clusterLegend {
+  margin: 10px;
+  display: flex;
+}
+.columns {
+  display: flex;
+  flex-direction: row;
+}
+
+
+
+#graphInfo {
+  margin-top: 20px;
+  width: 67.5%;
+  height: 200px;
+  display: flex;
+  justify-content: space-between;
+}
+
+#clusterLegendContainer, #topWordsGlobal, #topCategories {
+  flex-grow: 1;
+}
+
+#topWordsGlobal .rightColumn{
+  margin-left: 25px;
+}
+
+#topCategories {
+  margin-right: 5px;
+}
